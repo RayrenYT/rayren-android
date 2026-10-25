@@ -1,0 +1,65 @@
+{
+  "repo": "p1neappleXpress/OpenFlux",
+  "branch": "main",
+  "sha": "edcf77a1848a72370cfba9f346d3b897b61e7e7d",
+  "license": "GPL-3.0",
+  "release": "v0.13.0",
+  "published": "2026-10-16T11:09:11Z",
+  "assets": [
+    {
+      "name": "openflux-darwin-amd64",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-darwin-amd64",
+      "size": 30601472
+    },
+    {
+      "name": "openflux-darwin-arm64",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-darwin-arm64",
+      "size": 29037394
+    },
+    {
+      "name": "openflux-linux-amd64",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-linux-amd64",
+      "size": 29778082
+    },
+    {
+      "name": "openflux-linux-arm",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-linux-arm",
+      "size": 28311714
+    },
+    {
+      "name": "openflux-linux-arm64",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-linux-arm64",
+      "size": 28049570
+    },
+    {
+      "name": "openflux-windows-386.exe",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-windows-386.exe",
+      "size": 29135872
+    },
+    {
+      "name": "openflux-windows-amd64.exe",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-windows-amd64.exe",
+      "size": 30657024
+    },
+    {
+      "name": "openflux-windows-arm64.exe",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/openflux-windows-arm64.exe",
+      "size": 28524032
+    },
+    {
+      "name": "opensub-linux-amd64",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/opensub-linux-amd64",
+      "size": 8315042
+    },
+    {
+      "name": "opensub-linux-arm64",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/opensub-linux-arm64",
+      "size": 7667874
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFlux/releases/download/v0.13.0/SHA256SUMS.txt",
+      "size": 884
+    }
+  ]
+}

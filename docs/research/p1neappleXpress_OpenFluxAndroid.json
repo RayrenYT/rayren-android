@@ -1,0 +1,40 @@
+{
+  "repo": "p1neappleXpress/OpenFluxAndroid",
+  "branch": "main",
+  "sha": "9abef23d45a38af97b353fe0a9d9ec0c244a35c7",
+  "license": "GPL-3.0",
+  "release": "v3.7.0",
+  "published": "2026-10-16T11:16:34Z",
+  "assets": [
+    {
+      "name": "OpenFluxAndroid-3.7.0-androidApp-arm64-v8a-release.apk",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFluxAndroid/releases/download/v3.7.0/OpenFluxAndroid-3.7.0-androidApp-arm64-v8a-release.apk",
+      "size": 26662399
+    },
+    {
+      "name": "OpenFluxAndroid-3.7.0-androidApp-armeabi-v7a-release.apk",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFluxAndroid/releases/download/v3.7.0/OpenFluxAndroid-3.7.0-androidApp-armeabi-v7a-release.apk",
+      "size": 27056591
+    },
+    {
+      "name": "OpenFluxAndroid-3.7.0-androidApp-universal-release.apk",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFluxAndroid/releases/download/v3.7.0/OpenFluxAndroid-3.7.0-androidApp-universal-release.apk",
+      "size": 64836910
+    },
+    {
+      "name": "OpenFluxAndroid-3.7.0-androidApp-x86-release.apk",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFluxAndroid/releases/download/v3.7.0/OpenFluxAndroid-3.7.0-androidApp-x86-release.apk",
+      "size": 27809611
+    },
+    {
+      "name": "OpenFluxAndroid-3.7.0-androidApp-x86_64-release.apk",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFluxAndroid/releases/download/v3.7.0/OpenFluxAndroid-3.7.0-androidApp-x86_64-release.apk",
+      "size": 27439209
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "browser_download_url": "https://github.com/p1neappleXpress/OpenFluxAndroid/releases/download/v3.7.0/SHA256SUMS.txt",
+      "size": 598
+    }
+  ]
+}

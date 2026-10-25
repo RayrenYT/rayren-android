@@ -1,0 +1,40 @@
+{
+  "repo": "XTLS/libXray",
+  "branch": "main",
+  "sha": "4e1f7843e6cddb750ac7abc23ef36800820a8098",
+  "license": "MIT",
+  "release": "v26.10.10",
+  "published": "2026-10-11T13:26:18Z",
+  "assets": [
+    {
+      "name": "libxray-android.zip",
+      "browser_download_url": "https://github.com/XTLS/libXray/releases/download/v26.10.10/libxray-android.zip",
+      "size": 57224488
+    },
+    {
+      "name": "libxray-apple-cgo.zip",
+      "browser_download_url": "https://github.com/XTLS/libXray/releases/download/v26.10.10/libxray-apple-cgo.zip",
+      "size": 111765108
+    },
+    {
+      "name": "libxray-linux-arm64.zip",
+      "browser_download_url": "https://github.com/XTLS/libXray/releases/download/v26.10.10/libxray-linux-arm64.zip",
+      "size": 24987267
+    },
+    {
+      "name": "libxray-linux-x64.zip",
+      "browser_download_url": "https://github.com/XTLS/libXray/releases/download/v26.10.10/libxray-linux-x64.zip",
+      "size": 27725418
+    },
+    {
+      "name": "libxray-windows-arm64.zip",
+      "browser_download_url": "https://github.com/XTLS/libXray/releases/download/v26.10.10/libxray-windows-arm64.zip",
+      "size": 23450467
+    },
+    {
+      "name": "libxray-windows-x64.zip",
+      "browser_download_url": "https://github.com/XTLS/libXray/releases/download/v26.10.10/libxray-windows-x64.zip",
+      "size": 26378660
+    }
+  ]
+}

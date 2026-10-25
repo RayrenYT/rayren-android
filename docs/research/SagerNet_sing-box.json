@@ -1,0 +1,850 @@
+{
+  "repo": "SagerNet/sing-box",
+  "branch": "testing",
+  "sha": "dfb80349bf5779ec0a3f834c9ec2794345bff8f0",
+  "license": "NOASSERTION",
+  "release": "v1.14.3",
+  "published": "2026-10-09T05:35:00Z",
+  "assets": [
+    {
+      "name": "SFA-1.14.3-arm64-v8a.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-arm64-v8a.apk",
+      "size": 36637979
+    },
+    {
+      "name": "SFA-1.14.3-armeabi-v7a.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-armeabi-v7a.apk",
+      "size": 36512945
+    },
+    {
+      "name": "SFA-1.14.3-legacy-android-5-arm64-v8a.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-legacy-android-5-arm64-v8a.apk",
+      "size": 31225223
+    },
+    {
+      "name": "SFA-1.14.3-legacy-android-5-armeabi-v7a.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-legacy-android-5-armeabi-v7a.apk",
+      "size": 31746375
+    },
+    {
+      "name": "SFA-1.14.3-legacy-android-5-universal.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-legacy-android-5-universal.apk",
+      "size": 106762458
+    },
+    {
+      "name": "SFA-1.14.3-legacy-android-5-x86.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-legacy-android-5-x86.apk",
+      "size": 33744966
+    },
+    {
+      "name": "SFA-1.14.3-legacy-android-5-x86_64.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-legacy-android-5-x86_64.apk",
+      "size": 32966326
+    },
+    {
+      "name": "SFA-1.14.3-universal.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-universal.apk",
+      "size": 127173836
+    },
+    {
+      "name": "SFA-1.14.3-x86.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-x86.apk",
+      "size": 39587913
+    },
+    {
+      "name": "SFA-1.14.3-x86_64.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-1.14.3-x86_64.apk",
+      "size": 38543546
+    },
+    {
+      "name": "SFA-version-metadata.json",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFA-version-metadata.json",
+      "size": 54
+    },
+    {
+      "name": "SFI-1.14.3-iphoneos-arm64.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFI-1.14.3-iphoneos-arm64.deb",
+      "size": 30024284
+    },
+    {
+      "name": "SFI-1.14.3-iphoneos-arm64e.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFI-1.14.3-iphoneos-arm64e.deb",
+      "size": 30033316
+    },
+    {
+      "name": "SFL-1.14.3-aarch64.pkg.tar.zst",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-aarch64.pkg.tar.zst",
+      "size": 117151405
+    },
+    {
+      "name": "SFL-1.14.3-aarch64.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-aarch64.rpm",
+      "size": 102310701
+    },
+    {
+      "name": "SFL-1.14.3-amd64.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-amd64.deb",
+      "size": 111340310
+    },
+    {
+      "name": "SFL-1.14.3-arm64.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-arm64.deb",
+      "size": 102302678
+    },
+    {
+      "name": "SFL-1.14.3-armv7l.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-armv7l.deb",
+      "size": 107380146
+    },
+    {
+      "name": "SFL-1.14.3-armv7l.pkg.tar.zst",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-armv7l.pkg.tar.zst",
+      "size": 120536558
+    },
+    {
+      "name": "SFL-1.14.3-armv7l.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-armv7l.rpm",
+      "size": 107373745
+    },
+    {
+      "name": "SFL-1.14.3-x64.pkg.tar.zst",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-x64.pkg.tar.zst",
+      "size": 120930635
+    },
+    {
+      "name": "SFL-1.14.3-x86_64.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFL-1.14.3-x86_64.rpm",
+      "size": 111365201
+    },
+    {
+      "name": "SFM-1.14.3-Apple.pkg",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFM-1.14.3-Apple.pkg",
+      "size": 48210207
+    },
+    {
+      "name": "SFM-1.14.3-Intel.pkg",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFM-1.14.3-Intel.pkg",
+      "size": 56672149
+    },
+    {
+      "name": "SFM-1.14.3-Universal.pkg",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFM-1.14.3-Universal.pkg",
+      "size": 103412626
+    },
+    {
+      "name": "SFM-1.14.3.dSYMs.zip",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFM-1.14.3.dSYMs.zip",
+      "size": 28065975
+    },
+    {
+      "name": "SFW-1.14.3-arm64.exe",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFW-1.14.3-arm64.exe",
+      "size": 116648632
+    },
+    {
+      "name": "SFW-1.14.3-x64.exe",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFW-1.14.3-x64.exe",
+      "size": 114831192
+    },
+    {
+      "name": "SFW-1.14.3-x86.exe",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/SFW-1.14.3-x86.exe",
+      "size": 97439120
+    },
+    {
+      "name": "sing-box-1.14.3-android-386.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-android-386.tar.gz",
+      "size": 28416361
+    },
+    {
+      "name": "sing-box-1.14.3-android-amd64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-android-amd64.tar.gz",
+      "size": 27494675
+    },
+    {
+      "name": "sing-box-1.14.3-android-arm.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-android-arm.tar.gz",
+      "size": 26110218
+    },
+    {
+      "name": "sing-box-1.14.3-android-arm64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-android-arm64.tar.gz",
+      "size": 25589071
+    },
+    {
+      "name": "sing-box-1.14.3-darwin-amd64-legacy-macos-10.13.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-darwin-amd64-legacy-macos-10.13.tar.gz",
+      "size": 26133673
+    },
+    {
+      "name": "sing-box-1.14.3-darwin-amd64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-darwin-amd64.tar.gz",
+      "size": 31473185
+    },
+    {
+      "name": "sing-box-1.14.3-darwin-arm64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-darwin-arm64.tar.gz",
+      "size": 29163190
+    },
+    {
+      "name": "sing-box-1.14.3-linux-386-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-386-glibc.tar.gz",
+      "size": 31149192
+    },
+    {
+      "name": "sing-box-1.14.3-linux-386-musl.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-386-musl.tar.gz",
+      "size": 31160526
+    },
+    {
+      "name": "sing-box-1.14.3-linux-386-softfloat.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-386-softfloat.tar.gz",
+      "size": 25791663
+    },
+    {
+      "name": "sing-box-1.14.3-linux-386.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-386.tar.gz",
+      "size": 25781782
+    },
+    {
+      "name": "sing-box-1.14.3-linux-amd64-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-amd64-glibc.tar.gz",
+      "size": 32493273
+    },
+    {
+      "name": "sing-box-1.14.3-linux-amd64-musl.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-amd64-musl.tar.gz",
+      "size": 32521387
+    },
+    {
+      "name": "sing-box-1.14.3-linux-amd64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-amd64.tar.gz",
+      "size": 31678266
+    },
+    {
+      "name": "sing-box-1.14.3-linux-arm64-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-arm64-glibc.tar.gz",
+      "size": 29696397
+    },
+    {
+      "name": "sing-box-1.14.3-linux-arm64-musl.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-arm64-musl.tar.gz",
+      "size": 29733009
+    },
+    {
+      "name": "sing-box-1.14.3-linux-arm64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-arm64.tar.gz",
+      "size": 29110944
+    },
+    {
+      "name": "sing-box-1.14.3-linux-armv5.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-armv5.tar.gz",
+      "size": 25343704
+    },
+    {
+      "name": "sing-box-1.14.3-linux-armv6.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-armv6.tar.gz",
+      "size": 25333841
+    },
+    {
+      "name": "sing-box-1.14.3-linux-armv7-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-armv7-glibc.tar.gz",
+      "size": 29837038
+    },
+    {
+      "name": "sing-box-1.14.3-linux-armv7-musl.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-armv7-musl.tar.gz",
+      "size": 29867464
+    },
+    {
+      "name": "sing-box-1.14.3-linux-armv7.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-armv7.tar.gz",
+      "size": 25305031
+    },
+    {
+      "name": "sing-box-1.14.3-linux-loong64-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-loong64-glibc.tar.gz",
+      "size": 31351687
+    },
+    {
+      "name": "sing-box-1.14.3-linux-loong64-musl.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-loong64-musl.tar.gz",
+      "size": 31384647
+    },
+    {
+      "name": "sing-box-1.14.3-linux-loong64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-loong64.tar.gz",
+      "size": 26195291
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mips-softfloat.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mips-softfloat.tar.gz",
+      "size": 24564056
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mips64-softfloat.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mips64-softfloat.tar.gz",
+      "size": 23933566
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mips64le-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mips64le-glibc.tar.gz",
+      "size": 28960926
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mips64le-softfloat.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mips64le-softfloat.tar.gz",
+      "size": 23363221
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mips64le.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mips64le.tar.gz",
+      "size": 23358663
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mipsle-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mipsle-glibc.tar.gz",
+      "size": 30072182
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mipsle-softfloat-musl.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mipsle-softfloat-musl.tar.gz",
+      "size": 30083062
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mipsle-softfloat.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mipsle-softfloat.tar.gz",
+      "size": 24050994
+    },
+    {
+      "name": "sing-box-1.14.3-linux-mipsle.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-mipsle.tar.gz",
+      "size": 24056592
+    },
+    {
+      "name": "sing-box-1.14.3-linux-ppc64le.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-ppc64le.tar.gz",
+      "size": 24848191
+    },
+    {
+      "name": "sing-box-1.14.3-linux-riscv64-glibc.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-riscv64-glibc.tar.gz",
+      "size": 30519687
+    },
+    {
+      "name": "sing-box-1.14.3-linux-riscv64-musl.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-riscv64-musl.tar.gz",
+      "size": 30553543
+    },
+    {
+      "name": "sing-box-1.14.3-linux-riscv64.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-riscv64.tar.gz",
+      "size": 25663251
+    },
+    {
+      "name": "sing-box-1.14.3-linux-s390x.tar.gz",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-linux-s390x.tar.gz",
+      "size": 26801486
+    },
+    {
+      "name": "sing-box-1.14.3-windows-386-legacy-windows-7.zip",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-windows-386-legacy-windows-7.zip",
+      "size": 26162734
+    },
+    {
+      "name": "sing-box-1.14.3-windows-386.zip",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-windows-386.zip",
+      "size": 26654818
+    },
+    {
+      "name": "sing-box-1.14.3-windows-amd64-legacy-windows-7.zip",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-windows-amd64-legacy-windows-7.zip",
+      "size": 27560952
+    },
+    {
+      "name": "sing-box-1.14.3-windows-amd64.zip",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-windows-amd64.zip",
+      "size": 32853953
+    },
+    {
+      "name": "sing-box-1.14.3-windows-arm64.zip",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box-1.14.3-windows-arm64.zip",
+      "size": 29431701
+    },
+    {
+      "name": "sing-box_1.14.3_linux_aarch64.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_aarch64.apk",
+      "size": 29528096
+    },
+    {
+      "name": "sing-box_1.14.3_linux_aarch64.pkg.tar.zst",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_aarch64.pkg.tar.zst",
+      "size": 28633333
+    },
+    {
+      "name": "sing-box_1.14.3_linux_aarch64.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_aarch64.rpm",
+      "size": 29536626
+    },
+    {
+      "name": "sing-box_1.14.3_linux_amd64.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_amd64.deb",
+      "size": 32297762
+    },
+    {
+      "name": "sing-box_1.14.3_linux_arm64.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_arm64.deb",
+      "size": 29571162
+    },
+    {
+      "name": "sing-box_1.14.3_linux_armel.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_armel.deb",
+      "size": 25147522
+    },
+    {
+      "name": "sing-box_1.14.3_linux_armhf.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_armhf.deb",
+      "size": 29675510
+    },
+    {
+      "name": "sing-box_1.14.3_linux_armv6hl.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_armv6hl.rpm",
+      "size": 25087573
+    },
+    {
+      "name": "sing-box_1.14.3_linux_armv7.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_armv7.apk",
+      "size": 29608739
+    },
+    {
+      "name": "sing-box_1.14.3_linux_armv7hl.pkg.tar.zst",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_armv7hl.pkg.tar.zst",
+      "size": 28847305
+    },
+    {
+      "name": "sing-box_1.14.3_linux_armv7hl.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_armv7hl.rpm",
+      "size": 29614943
+    },
+    {
+      "name": "sing-box_1.14.3_linux_i386.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_i386.deb",
+      "size": 30944828
+    },
+    {
+      "name": "sing-box_1.14.3_linux_i386.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_i386.rpm",
+      "size": 30865427
+    },
+    {
+      "name": "sing-box_1.14.3_linux_loongarch64.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_loongarch64.apk",
+      "size": 31115047
+    },
+    {
+      "name": "sing-box_1.14.3_linux_loongarch64.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_loongarch64.deb",
+      "size": 31189378
+    },
+    {
+      "name": "sing-box_1.14.3_linux_loongarch64.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_loongarch64.rpm",
+      "size": 31122283
+    },
+    {
+      "name": "sing-box_1.14.3_linux_mips64el.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_mips64el.deb",
+      "size": 28719382
+    },
+    {
+      "name": "sing-box_1.14.3_linux_mips64el.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_mips64el.rpm",
+      "size": 28601019
+    },
+    {
+      "name": "sing-box_1.14.3_linux_mipsel.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_mipsel.deb",
+      "size": 29870810
+    },
+    {
+      "name": "sing-box_1.14.3_linux_mipsel.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_mipsel.rpm",
+      "size": 29740379
+    },
+    {
+      "name": "sing-box_1.14.3_linux_ppc64el.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_ppc64el.deb",
+      "size": 24689136
+    },
+    {
+      "name": "sing-box_1.14.3_linux_ppc64le.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_ppc64le.rpm",
+      "size": 24602495
+    },
+    {
+      "name": "sing-box_1.14.3_linux_riscv64.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_riscv64.apk",
+      "size": 30376395
+    },
+    {
+      "name": "sing-box_1.14.3_linux_riscv64.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_riscv64.deb",
+      "size": 30399074
+    },
+    {
+      "name": "sing-box_1.14.3_linux_riscv64.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_riscv64.rpm",
+      "size": 30384520
+    },
+    {
+      "name": "sing-box_1.14.3_linux_s390x.deb",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_s390x.deb",
+      "size": 26349450
+    },
+    {
+      "name": "sing-box_1.14.3_linux_s390x.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_s390x.rpm",
+      "size": 26278888
+    },
+    {
+      "name": "sing-box_1.14.3_linux_x86.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_x86.apk",
+      "size": 30859489
+    },
+    {
+      "name": "sing-box_1.14.3_linux_x86_64.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_x86_64.apk",
+      "size": 32224477
+    },
+    {
+      "name": "sing-box_1.14.3_linux_x86_64.pkg.tar.zst",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_x86_64.pkg.tar.zst",
+      "size": 31436267
+    },
+    {
+      "name": "sing-box_1.14.3_linux_x86_64.rpm",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_linux_x86_64.rpm",
+      "size": 32231776
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_cortex-a53.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_cortex-a53.apk",
+      "size": 29527778
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_cortex-a53.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_cortex-a53.ipk",
+      "size": 29477532
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_cortex-a72.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_cortex-a72.apk",
+      "size": 29527776
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_cortex-a72.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_cortex-a72.ipk",
+      "size": 29477538
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_cortex-a76.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_cortex-a76.apk",
+      "size": 29527777
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_cortex-a76.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_cortex-a76.ipk",
+      "size": 29477538
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_generic.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_generic.apk",
+      "size": 29527756
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_aarch64_generic.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_aarch64_generic.ipk",
+      "size": 29477530
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_arm1176jzf-s_vfp.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_arm1176jzf-s_vfp.apk",
+      "size": 25079051
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_arm1176jzf-s_vfp.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_arm1176jzf-s_vfp.ipk",
+      "size": 25099485
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_arm926ej-s.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_arm926ej-s.apk",
+      "size": 25089064
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_arm926ej-s.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_arm926ej-s.ipk",
+      "size": 25110847
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a15_neon-vfpv4.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a15_neon-vfpv4.apk",
+      "size": 29608271
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a15_neon-vfpv4.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a15_neon-vfpv4.ipk",
+      "size": 29626303
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a5_vfpv4.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a5_vfpv4.apk",
+      "size": 29608255
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a5_vfpv4.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a5_vfpv4.ipk",
+      "size": 29626304
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a7.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a7.apk",
+      "size": 25089058
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a7.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a7.ipk",
+      "size": 25110845
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a7_neon-vfpv4.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a7_neon-vfpv4.apk",
+      "size": 29608321
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a7_neon-vfpv4.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a7_neon-vfpv4.ipk",
+      "size": 29626303
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a7_vfpv4.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a7_vfpv4.apk",
+      "size": 29608255
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a7_vfpv4.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a7_vfpv4.ipk",
+      "size": 29626305
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a8_vfpv3.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a8_vfpv3.apk",
+      "size": 29608254
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a8_vfpv3.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a8_vfpv3.ipk",
+      "size": 29626305
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a9.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a9.apk",
+      "size": 25089058
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a9.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a9.ipk",
+      "size": 25110849
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a9_neon.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a9_neon.apk",
+      "size": 29608253
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a9_neon.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a9_neon.ipk",
+      "size": 29626295
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a9_vfpv3-d16.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a9_vfpv3-d16.apk",
+      "size": 29608291
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_cortex-a9_vfpv3-d16.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_cortex-a9_vfpv3-d16.ipk",
+      "size": 29626294
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_fa526.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_fa526.apk",
+      "size": 25089051
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_fa526.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_fa526.ipk",
+      "size": 25110851
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_xscale.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_xscale.apk",
+      "size": 25089060
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_arm_xscale.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_arm_xscale.ipk",
+      "size": 25110847
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_i386_pentium-mmx.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_i386_pentium-mmx.apk",
+      "size": 25506888
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_i386_pentium-mmx.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_i386_pentium-mmx.ipk",
+      "size": 25523752
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_i386_pentium4.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_i386_pentium4.apk",
+      "size": 30859083
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_i386_pentium4.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_i386_pentium4.ipk",
+      "size": 30883340
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_loongarch64_generic.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_loongarch64_generic.apk",
+      "size": 31114694
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_loongarch64_generic.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_loongarch64_generic.ipk",
+      "size": 31030251
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips64el_mips64r2.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips64el_mips64r2.apk",
+      "size": 23060749
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips64el_mips64r2.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips64el_mips64r2.ipk",
+      "size": 23068626
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips64_mips64r2.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips64_mips64r2.apk",
+      "size": 23312660
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips64_mips64r2.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips64_mips64r2.ipk",
+      "size": 23289266
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips64_octeonplus.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips64_octeonplus.apk",
+      "size": 23312691
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips64_octeonplus.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips64_octeonplus.ipk",
+      "size": 23289258
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_24kc.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_24kc.apk",
+      "size": 29734128
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_24kc.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_24kc.ipk",
+      "size": 29794476
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_24kc_24kf.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_24kc_24kf.apk",
+      "size": 23771748
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_24kc_24kf.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_24kc_24kf.ipk",
+      "size": 23801523
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_74kc.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_74kc.apk",
+      "size": 29734129
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_74kc.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_74kc.ipk",
+      "size": 29794476
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_mips32.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_mips32.apk",
+      "size": 29734127
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mipsel_mips32.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mipsel_mips32.ipk",
+      "size": 29794483
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips_24kc.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips_24kc.apk",
+      "size": 23997181
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips_24kc.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips_24kc.ipk",
+      "size": 24011477
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips_4kec.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips_4kec.apk",
+      "size": 23997181
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips_4kec.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips_4kec.ipk",
+      "size": 24011480
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips_mips32.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips_mips32.apk",
+      "size": 23997172
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_mips_mips32.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_mips_mips32.ipk",
+      "size": 24011478
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_riscv64_generic.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_riscv64_generic.apk",
+      "size": 30376067
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_riscv64_generic.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_riscv64_generic.ipk",
+      "size": 30296084
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_x86_64.apk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_x86_64.apk",
+      "size": 32224055
+    },
+    {
+      "name": "sing-box_1.14.3_openwrt_x86_64.ipk",
+      "browser_download_url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.3/sing-box_1.14.3_openwrt_x86_64.ipk",
+      "size": 32212134
+    }
+  ]
+}

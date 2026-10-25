@@ -1,0 +1,195 @@
+{
+  "repo": "heiher/hev-socks5-tunnel",
+  "branch": "main",
+  "sha": "873541b81f00f8fd462392fc622adbb8a8cd59b0",
+  "license": "MIT",
+  "release": "2.19.0",
+  "published": "2026-10-15T04:29:31Z",
+  "assets": [
+    {
+      "name": "hev-socks5-tunnel-2.19.0.tar.xz",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-2.19.0.tar.xz",
+      "size": 825200
+    },
+    {
+      "name": "hev-socks5-tunnel-android-arm64-v8a",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-android-arm64-v8a",
+      "size": 246544
+    },
+    {
+      "name": "hev-socks5-tunnel-android-armeabi-v7a",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-android-armeabi-v7a",
+      "size": 166300
+    },
+    {
+      "name": "hev-socks5-tunnel-android-x86",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-android-x86",
+      "size": 271016
+    },
+    {
+      "name": "hev-socks5-tunnel-android-x86_64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-android-x86_64",
+      "size": 246744
+    },
+    {
+      "name": "hev-socks5-tunnel-darwin-arm64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-darwin-arm64",
+      "size": 315920
+    },
+    {
+      "name": "hev-socks5-tunnel-darwin-x86_64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-darwin-x86_64",
+      "size": 338088
+    },
+    {
+      "name": "hev-socks5-tunnel-freebsd-x86_64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-freebsd-x86_64",
+      "size": 322976
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-arm32",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-arm32",
+      "size": 370288
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-arm32hf",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-arm32hf",
+      "size": 366196
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-arm32v7",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-arm32v7",
+      "size": 353896
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-arm32v7hf",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-arm32v7hf",
+      "size": 353904
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-arm64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-arm64",
+      "size": 395424
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-i586",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-i586",
+      "size": 460144
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-i686",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-i686",
+      "size": 451952
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-loong64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-loong64",
+      "size": 460848
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-m68k",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-m68k",
+      "size": 353512
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-microblaze",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-microblaze",
+      "size": 554280
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-microblazeel",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-microblazeel",
+      "size": 554280
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-mips32",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-mips32",
+      "size": 522256
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-mips32el",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-mips32el",
+      "size": 526392
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-mips32elsf",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-mips32elsf",
+      "size": 534908
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-mips32sf",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-mips32sf",
+      "size": 530772
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-mips64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-mips64",
+      "size": 514848
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-mips64el",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-mips64el",
+      "size": 518496
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-or1k",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-or1k",
+      "size": 484632
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-powerpc",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-powerpc",
+      "size": 526180
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-powerpc64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-powerpc64",
+      "size": 592360
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-powerpc64le",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-powerpc64le",
+      "size": 592360
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-powerpcle",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-powerpcle",
+      "size": 526180
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-riscv32",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-riscv32",
+      "size": 341748
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-riscv64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-riscv64",
+      "size": 338416
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-s390x",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-s390x",
+      "size": 493440
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-sh4",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-sh4",
+      "size": 328988
+    },
+    {
+      "name": "hev-socks5-tunnel-linux-x86_64",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-linux-x86_64",
+      "size": 423848
+    },
+    {
+      "name": "hev-socks5-tunnel-win64.zip",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel-win64.zip",
+      "size": 1607972
+    },
+    {
+      "name": "hev-socks5-tunnel.aar",
+      "browser_download_url": "https://github.com/heiher/hev-socks5-tunnel/releases/download/2.19.0/hev-socks5-tunnel.aar",
+      "size": 604292
+    }
+  ]
+}

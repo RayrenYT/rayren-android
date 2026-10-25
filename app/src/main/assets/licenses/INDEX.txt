@@ -1,0 +1,195 @@
+Rayren 0.1.0-alpha - GPLv3
+Copyright 2026 Rayren contributors
+
+Native integration is based on the public Veil build approach. Rayren UI, policy compiler, vault and controller are new.
+Exact source revisions: docs/research/pinned-native-sources.json in the source archive.
+OpenFlux: GPLv3; AndroidLibXrayLite: LGPLv3; Xray: MPL2; original olcRTC: WTFPLv2; HEV: MIT.
+
+Included notices:
+Go_decb548941d8.txt: buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go/LICENSE
+Go_923ce676aab3.txt: buf.build/go/protovalidate/LICENSE
+Go_34b0425edffc.txt: buf.build/go/protoyaml/LICENSE
+Go_704f138eb2c7.txt: cel.dev/expr/LICENSE
+Go_15204a78688f.txt: codeberg.org/rape4me/kc/LICENSE
+Go_d4061ba624cd.txt: github.com/2dust/AndroidLibXrayLite/LICENSE
+Go_91d9855ca27e.txt: github.com/andybalholm/brotli/LICENSE
+Go_c9b46b2d94ea.txt: github.com/antlr4-go/antlr/v4/LICENSE
+Go_bfd2600302ba.txt: github.com/apernet/quic-go/LICENSE
+Go_c28254d3d89e.txt: github.com/benbjohnson/clock/LICENSE
+Go_e81e9c45a207.txt: github.com/beorn7/perks/LICENSE
+Go_5a3a878c3cc1.txt: github.com/bep/debounce/LICENSE
+Go_0e4c603ccd29.txt: github.com/cespare/xxhash/v2/LICENSE.txt
+Go_32ba6dce8cc0.txt: github.com/cloudflare/circl/LICENSE
+Go_85756981f306.txt: github.com/coder/websocket/LICENSE.txt
+Go_5dfa80d3dd44.txt: github.com/dennwc/iters/LICENSE
+Go_5e99b8489443.txt: github.com/dlclark/regexp2/v2/LICENSE
+Go_7fd273202c23.txt: github.com/dop251/goja/ftoa/internal/fast/LICENSE_V8
+Go_4b2eaf6013a8.txt: github.com/dop251/goja/ftoa/LICENSE_LUCENE
+Go_7fb5f9be13a4.txt: github.com/dop251/goja/LICENSE
+Go_e756f0d70c01.txt: github.com/dop251/goja_nodejs/LICENSE
+Go_983b4684eb89.txt: github.com/frostbyte73/core/LICENSE
+Go_94f06808de2f.txt: github.com/fsnotify/fsnotify/LICENSE
+Go_c1c1d439e22d.txt: github.com/gammazero/deque/LICENSE
+Go_00d5f1b91243.txt: github.com/ghodss/yaml/LICENSE
+Go_08436cddf5ff.txt: github.com/go-logr/logr/LICENSE
+Go_2b230312eb95.txt: github.com/go-logr/stdr/LICENSE
+Go_e39091014653.txt: github.com/go-sourcemap/sourcemap/LICENSE
+Go_6b5db59cf73f.txt: github.com/golang-jwt/jwt/v5/LICENSE
+Go_7aa89d6b460d.txt: github.com/google/btree/LICENSE
+Go_eb9999baeda6.txt: github.com/google/cel-go/LICENSE
+Go_df4f02535346.txt: github.com/google/gopacket/LICENSE
+Go_de3aaf1ae8d5.txt: github.com/google/pprof/LICENSE
+Go_fa3d1574eca0.txt: github.com/google/uuid/LICENSE
+Go_32789efce369.txt: github.com/gorilla/websocket/LICENSE
+Go_1b128518f823.txt: github.com/huin/goupnp/LICENSE
+Go_b44dacdccf05.txt: github.com/jackpal/go-nat-pmp/LICENSE
+Go_7cd008e28458.txt: github.com/jlaffaye/ftp/LICENSE
+Go_5e9db0de5c92.txt: github.com/juju/ratelimit/LICENSE
+Go_596720a90ff3.txt: github.com/jxskiss/base62/LICENSE
+Go_09a4e2160d63.txt: github.com/klauspost/compress/internal/snapref/LICENSE
+Go_ff3faf2baabe.txt: github.com/klauspost/compress/LICENSE
+Go_26681dca0bda.txt: github.com/klauspost/compress/zstd/internal/xxhash/LICENSE.txt
+Go_a886b4733597.txt: github.com/klauspost/cpuid/v2/LICENSE
+Go_95aff161a57c.txt: github.com/klauspost/reedsolomon/LICENSE
+Go_a6f164f4e611.txt: github.com/koron/go-ssdp/LICENSE
+Go_c43f96c26a8a.txt: github.com/libp2p/go-nat/LICENSE
+Go_35568c63ec2a.txt: github.com/libp2p/go-netroute/LICENSE
+Go_637f5da17d6a.txt: github.com/lithammer/shortuuid/v4/LICENSE
+Go_101e16783d78.txt: github.com/livekit/mageutil/LICENSE
+Go_9ef74b2c54aa.txt: github.com/livekit/mediatransportutil/LICENSE
+Go_0b04bdcdb72e.txt: github.com/livekit/mediatransportutil/NOTICE
+Go_0b99c8b5b4d2.txt: github.com/livekit/protocol/LICENSE
+Go_ead58d975081.txt: github.com/livekit/protocol/NOTICE
+Go_63d3cde4d0af.txt: github.com/livekit/psrpc/LICENSE
+Go_f93864172dd0.txt: github.com/livekit/psrpc/NOTICE
+Go_f6825f97e5d3.txt: github.com/magefile/mage/LICENSE
+Go_17ea1c09daa9.txt: github.com/makiuchi-d/gozxing/LICENSE
+Go_2672d6096e68.txt: github.com/miekg/dns/COPYRIGHT
+Go_fce986aaae27.txt: github.com/miekg/dns/LICENSE
+Go_ed12baaf5ad8.txt: github.com/munnerz/goautoneg/LICENSE
+Go_34a1557244f2.txt: github.com/nats-io/nats.go/LICENSE
+Go_c46f9c49910a.txt: github.com/nats-io/nkeys/LICENSE
+Go_042e1c804972.txt: github.com/nats-io/nuid/LICENSE
+Go_bfd97d3eceb0.txt: github.com/openlibrecommunity/olcrtc/LICENSE
+Go_58875cdb3040.txt: github.com/owenewans/owenlivekit/v2/LICENSE
+Go_053c3de960ed.txt: github.com/owenewans/owenlivekit/v2/NOTICE
+Go_11d4c94f9399.txt: github.com/owenewans/owenlivekit/v2/pkg/samplebuilder/NOTICE
+Go_107d47938e40.txt: github.com/p1neappleXpress/OpenFlux/COPYRIGHT
+Go_b32a989c3020.txt: github.com/p1neappleXpress/OpenFlux/LICENSE
+Go_365d41111781.txt: github.com/p1neappleXpress/OpenFlux/NOTICE
+Go_7409ca07e2b5.txt: github.com/pelletier/go-toml/LICENSE
+Go_953a02087196.txt: github.com/pierrec/lz4/v4/LICENSE
+Go_7eddb2cc60f4.txt: github.com/pion/datachannel/LICENSE
+Go_da044167cf6d.txt: github.com/pion/dtls/v3/LICENSE
+Go_a6c2dd3e75fc.txt: github.com/pion/ice/v4/LICENSE
+Go_698157ba13dd.txt: github.com/pion/interceptor/LICENSE
+Go_a98974c17c2a.txt: github.com/pion/logging/LICENSE
+Go_9d6a2442c872.txt: github.com/pion/mdns/v2/LICENSE
+Go_6b0ba12416b4.txt: github.com/pion/randutil/LICENSE
+Go_2c84310da296.txt: github.com/pion/rtcp/LICENSE
+Go_f8effd1f98e7.txt: github.com/pion/rtp/LICENSE
+Go_e38815ed46e3.txt: github.com/pion/sctp/LICENSE
+Go_27d849f2dffb.txt: github.com/pion/sdp/v3/LICENSE
+Go_4390484eb8ef.txt: github.com/pion/srtp/v3/LICENSE
+Go_be0eff01b6fa.txt: github.com/pion/stun/v3/LICENSE
+Go_c290a629f9d6.txt: github.com/pion/stun/v4/LICENSE
+Go_6ca1e9e7b1b4.txt: github.com/pion/transport/v4/LICENSE
+Go_8a96a9019d98.txt: github.com/pion/turn/v5/LICENSE
+Go_e830e97c76e1.txt: github.com/pion/webrtc/v4/LICENSE
+Go_303850acdaba.txt: github.com/pires/go-proxyproto/LICENSE
+Go_1497a4ba7f07.txt: github.com/pkg/errors/LICENSE
+Go_be0330f00e9a.txt: github.com/prometheus/client_golang/LICENSE
+Go_2462528e77c7.txt: github.com/prometheus/client_golang/NOTICE
+Go_37e9612ede0d.txt: github.com/prometheus/client_model/LICENSE
+Go_b6cc2ce068b9.txt: github.com/prometheus/client_model/NOTICE
+Go_aaead6d4535b.txt: github.com/prometheus/common/LICENSE
+Go_28fec0ed11fa.txt: github.com/prometheus/common/NOTICE
+Go_79f4d549628a.txt: github.com/prometheus/procfs/LICENSE
+Go_8fb202c75758.txt: github.com/prometheus/procfs/NOTICE
+Go_7308e5a63feb.txt: github.com/puzpuzpuz/xsync/v4/LICENSE
+Go_504a79c9d3f0.txt: github.com/quic-go/qpack/LICENSE.md
+Go_528491fb604d.txt: github.com/redis/go-redis/v9/LICENSE
+Go_99edd3754759.txt: github.com/refraction-networking/utls/dicttls/LICENSE
+Go_662b4b540b2b.txt: github.com/refraction-networking/utls/LICENSE
+Go_d7df2589c23c.txt: github.com/robfig/cron/v3/LICENSE
+Go_55518348f6d2.txt: github.com/skip2/go-qrcode/LICENSE
+Go_d5534c63c714.txt: github.com/tjfoc/gmsm/LICENSE
+Go_dee43ea07c14.txt: github.com/twitchtv/twirp/LICENSE
+Go_ae195dddd89d.txt: github.com/twitchtv/twirp/NOTICE
+Go_a28e857716bc.txt: github.com/vishvananda/netlink/LICENSE
+Go_1a33183cae55.txt: github.com/vishvananda/netns/LICENSE
+Go_0e0e85e2a1c0.txt: github.com/wlynxg/anet/LICENSE
+Go_c0f15133a066.txt: github.com/xjasonlyu/windivert-go/LICENSE
+Go_7bd1f533e1c0.txt: github.com/xtaci/kcp-go/v5/LICENSE
+Go_45ab764e26c5.txt: github.com/xtaci/smux/LICENSE
+Go_6e3c727fba36.txt: github.com/xtls/reality/LICENSE
+Go_496b84a3cede.txt: github.com/xtls/reality/LICENSE-Go
+Go_d81f4dde9fd5.txt: github.com/xtls/xray-core/LICENSE
+Go_4df101d00d07.txt: github.com/xtls/xray-core/transport/internet/masque/connectip/LICENSE
+Go_d5dcba297ffc.txt: github.com/yuin/gopher-lua/LICENSE
+Go_b7458debfa00.txt: github.com/zarazaex69/gr/LICENSE
+Go_492cec9e302e.txt: github.com/zarazaex69/j/LICENSE
+Go_512bb54978ae.txt: github.com/zeebo/xxh3/LICENSE
+Go_9e214eef6917.txt: go.opentelemetry.io/otel/LICENSE
+Go_bf4c8a09176a.txt: go.uber.org/atomic/LICENSE.txt
+Go_982a79e1c590.txt: go.uber.org/multierr/LICENSE.txt
+Go_a0f6f27311b6.txt: go.uber.org/zap/exp/LICENSE
+Go_56b3a660f6c1.txt: go.uber.org/zap/LICENSE
+Go_cc8ad2311337.txt: go.yaml.in/yaml/v3/LICENSE
+Go_3f603fd1793c.txt: go.yaml.in/yaml/v3/NOTICE
+Go_cd2c3fde1d58.txt: go4.org/netipx/LICENSE
+Go_1b301eac984e.txt: golang.org/x/crypto/LICENSE
+Go_b0697e8152ea.txt: golang.org/x/crypto/x509roots/fallback/LICENSE
+Go_e8ff7a508d18.txt: golang.org/x/exp/LICENSE
+Go_c797642080cb.txt: golang.org/x/mobile/LICENSE
+Go_f4572d6a3ef2.txt: golang.org/x/mod/LICENSE
+Go_05fd719b2ff1.txt: golang.org/x/net/LICENSE
+Go_3c7fd393b09f.txt: golang.org/x/sync/LICENSE
+Go_c7149c1283be.txt: golang.org/x/sys/LICENSE
+Go_bb0baeb016b2.txt: golang.org/x/text/LICENSE
+Go_550b3d13fc05.txt: golang.org/x/time/LICENSE
+Go_721a34de1f8a.txt: golang.org/x/tools/LICENSE
+Go_00a2c639099b.txt: golang.org/x/xerrors/LICENSE
+Go_881a8be7b2c9.txt: golang.zx2c4.com/wintun/LICENSE
+Go_1bb073eff240.txt: golang.zx2c4.com/wireguard/LICENSE
+Go_960b9e45762d.txt: golang.zx2c4.com/wireguard/windows/COPYING
+Go_9aa7958d8408.txt: google.golang.org/genproto/googleapis/api/LICENSE
+Go_5899aed8510b.txt: google.golang.org/genproto/googleapis/rpc/LICENSE
+Go_e3389e1f2de4.txt: google.golang.org/genproto/LICENSE
+Go_421391fbb887.txt: google.golang.org/grpc/LICENSE
+Go_35d1e31f622e.txt: google.golang.org/grpc/NOTICE.txt
+Go_5a5aa721dccd.txt: google.golang.org/protobuf/LICENSE
+Go_2e73df3f4415.txt: gopkg.in/yaml.v2/LICENSE
+Go_7df3759c0bf4.txt: gopkg.in/yaml.v2/LICENSE.libyaml
+Go_c6c0c2a57a25.txt: gopkg.in/yaml.v2/NOTICE
+Go_e4650e949a4e.txt: gopkg.in/yaml.v3/LICENSE
+Go_d3ec74a39d64.txt: gopkg.in/yaml.v3/NOTICE
+Go_ae8e35d63e39.txt: gvisor.dev/gvisor/LICENSE
+Go_c8a44f191e82.txt: layeh.com/gopher-luar/LICENSE
+Go_4addd66c3f3c.txt: lukechampine.com/blake3/LICENSE
+Go_57c7275b5449.txt: rsc.io/qr/LICENSE
+Native_2ba1d2a88849.txt: AndroidLibXrayLite/LICENSE
+Native_f413f6fcbd6d.txt: hev-socks5-tunnel/LICENSE
+Native_9e4b9e110465.txt: hev-socks5-tunnel/src/core/LICENSE
+Native_c000f27b11ae.txt: hev-socks5-tunnel/third-part/hev-task-system/LICENSE
+Native_7e83354b07d2.txt: hev-socks5-tunnel/third-part/lwip/LICENSE
+Native_19475521bfba.txt: hev-socks5-tunnel/third-part/wintun/LICENSE.txt
+Native_44dad5d1e0a0.txt: hev-socks5-tunnel/third-part/yaml/License
+Native_7c2ee50d31f8.txt: olcrtc/LICENSE
+Native_f779f247fac9.txt: OpenFlux/COPYRIGHT
+Native_e61cb87f2baf.txt: OpenFlux/LICENSE
+Native_275f7c14037d.txt: OpenFlux/NOTICE
+
+Android/JVM libraries:
+Kotlin and kotlinx.coroutines - JetBrains, Apache-2.0
+AndroidX / Compose / WorkManager - Android Open Source Project, Apache-2.0
+Gson - Google, Apache-2.0
+OkHttp / Okio - Square, Apache-2.0
+ZXing - ZXing authors; ZXing Android Embedded - Journey Mobile, Apache-2.0
+Bouncy Castle - Legion of the Bouncy Castle, MIT-style license
+jspecify - JSpecify contributors, Apache-2.0
+
+GeoIP / GeoSite: Loyalsoldier/v2ray-rules-dat release 202610152206, GPL-3.0 repository.
+GeoIP includes GeoLite2 data created by MaxMind (https://www.maxmind.com), CC BY-SA 4.0.
+GeoSite includes v2fly/domain-list-community (MIT), see publisher source links in THIRD_PARTY_NOTICES.md.
+For build instructions and corresponding source see the supplied Rayren source archive.

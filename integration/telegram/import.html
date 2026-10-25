@@ -1,0 +1,20 @@
+<!doctype html><html lang="ru"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="no-referrer"><title>Личная подписка · Rayren</title>
+<style>body{margin:0;background:#0c1114;color:#e8eff0;font:17px/1.55 system-ui}main{max-width:520px;margin:10vh auto;padding:28px}h1{font-size:32px;line-height:1.2}a{color:#9be7c3}.button{display:block;text-align:center;background:#9be7c3;color:#0c3626;padding:16px;border-radius:16px;font-weight:650;text-decoration:none;margin:24px 0}small{color:#99a9b2}#open[hidden]{display:none}</style>
+<main><small>RAYREN · ТЕСТОВЫЙ АВТОИМПОРТ</small><h1>Ваша подписка в приложении</h1>
+<p id="message">Откройте эту страницу личной кнопкой из @rayrenhelpbot.</p>
+<a id="open" class="button" hidden>Открыть Rayren</a>
+<p>Нужна версия <b>0.1.7 или новее</b>. После открытия подтвердите добавление аккаунта. VPN сам не включится.</p>
+<p><a href="/app/downloads/Rayren-0.1.8-alpha-arm64-v8a.apk">Скачать тестовый APK · Android ARM64</a></p>
+<small>Android 8+. Устанавливайте поверх предыдущей версии. Личную ссылку нельзя пересылать другим. Если встроенный браузер Telegram не открывает приложение, выберите «Открыть во внешнем браузере».</small>
+<p><a href="/app/downloads/Rayren-0.1.8-alpha-source.zip">Исходники GPLv3</a> · <a href="https://t.me/rayrenhelpbot?start=rayren_app">Вернуться в бот</a></p></main>
+<script>
+const key=new URLSearchParams(location.hash.slice(1)).get('key')||'';
+if(/^[A-Za-z0-9_-]{43}$/.test(key)){
+  const link=document.getElementById('open');
+  link.href='rayren://import?url='+encodeURIComponent('https://rayren.icu/incy/rayren-app/'+key);
+  link.hidden=false;
+  document.getElementById('message').textContent='Основные серверы и доступный вам БС добавятся в группу «Мой Rayren». Копировать ссылки не нужно.';
+  history.replaceState(null,'',location.pathname);
+}
+</script></html>

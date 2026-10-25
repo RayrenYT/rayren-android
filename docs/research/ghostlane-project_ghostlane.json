@@ -1,0 +1,160 @@
+{
+  "repo": "ghostlane-project/ghostlane",
+  "branch": "main",
+  "sha": "6c04518f95f3b9f86f2a6dc0a0ade8812f9f06b1",
+  "license": "MIT",
+  "release": "v1.0.466",
+  "published": "2026-10-14T01:33:55Z",
+  "assets": [
+    {
+      "name": "gate-report.json",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/gate-report.json",
+      "size": 39641
+    },
+    {
+      "name": "gate-report.md",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/gate-report.md",
+      "size": 8757
+    },
+    {
+      "name": "Ghostlane-1.0.466-android-armeabi-v7a-release.apk",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-android-armeabi-v7a-release.apk",
+      "size": 45178968
+    },
+    {
+      "name": "Ghostlane-1.0.466-android-play.aab",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-android-play.aab",
+      "size": 196052637
+    },
+    {
+      "name": "Ghostlane-1.0.466-android-release.apk",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-android-release.apk",
+      "size": 127194634
+    },
+    {
+      "name": "Ghostlane-1.0.466-linux-amd64.AppImage",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-linux-amd64.AppImage",
+      "size": 139830464
+    },
+    {
+      "name": "Ghostlane-1.0.466-macos-amd64.dmg",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-macos-amd64.dmg",
+      "size": 171010216
+    },
+    {
+      "name": "Ghostlane-1.0.466-macos-arm64.dmg",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-macos-arm64.dmg",
+      "size": 160252266
+    },
+    {
+      "name": "Ghostlane-1.0.466-windows-amd64-portable.zip",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-windows-amd64-portable.zip",
+      "size": 129467259
+    },
+    {
+      "name": "Ghostlane-1.0.466-windows-amd64.exe",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-windows-amd64.exe",
+      "size": 131436544
+    },
+    {
+      "name": "Ghostlane-1.0.466-windows-amd64.msi",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/Ghostlane-1.0.466-windows-amd64.msi",
+      "size": 130840549
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-amd64.apk",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-amd64.apk",
+      "size": 26710722
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-amd64.deb",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-amd64.deb",
+      "size": 25690172
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-amd64.pkg.tar.zst",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-amd64.pkg.tar.zst",
+      "size": 25228301
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-amd64.rpm",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-amd64.rpm",
+      "size": 25628887
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-amd64.tar.gz",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-amd64.tar.gz",
+      "size": 25296486
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm64.apk",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm64.apk",
+      "size": 24101271
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm64.deb",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm64.deb",
+      "size": 23308150
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm64.pkg.tar.zst",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm64.pkg.tar.zst",
+      "size": 22678689
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm64.rpm",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm64.rpm",
+      "size": 23188490
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm64.tar.gz",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm64.tar.gz",
+      "size": 22746056
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm7.apk",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm7.apk",
+      "size": 24749316
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm7.deb",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm7.deb",
+      "size": 23963722
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm7.pkg.tar.zst",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm7.pkg.tar.zst",
+      "size": 23134335
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm7.rpm",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm7.rpm",
+      "size": 23850603
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-linux-arm7.tar.gz",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-linux-arm7.tar.gz",
+      "size": 23425718
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-SHA256SUMS",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-SHA256SUMS",
+      "size": 1588
+    },
+    {
+      "name": "ghostlane-cli-1.0.466-SHA256SUMS.sig",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/ghostlane-cli-1.0.466-SHA256SUMS.sig",
+      "size": 64
+    },
+    {
+      "name": "install.sh",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/install.sh",
+      "size": 6674
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "browser_download_url": "https://github.com/ghostlane-project/ghostlane/releases/download/v1.0.466/SHA256SUMS.txt",
+      "size": 2972
+    }
+  ]
+}

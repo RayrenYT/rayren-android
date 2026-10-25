@@ -1,0 +1,330 @@
+{
+  "repo": "XTLS/Xray-core",
+  "branch": "main",
+  "sha": "0f3d884786f9ec73d3be8899cb6b9e1e6dd3c41e",
+  "license": "MPL-2.0",
+  "release": "v26.3.27",
+  "published": "2026-03-27T17:51:11Z",
+  "assets": [
+    {
+      "name": "Xray-android-amd64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-amd64.zip",
+      "size": 20991909
+    },
+    {
+      "name": "Xray-android-amd64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-amd64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-android-arm64-v8a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-arm64-v8a.zip",
+      "size": 19883196
+    },
+    {
+      "name": "Xray-android-arm64-v8a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-android-arm64-v8a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-freebsd-32.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-32.zip",
+      "size": 19636201
+    },
+    {
+      "name": "Xray-freebsd-32.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-32.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-freebsd-64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-64.zip",
+      "size": 20415461
+    },
+    {
+      "name": "Xray-freebsd-64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-freebsd-arm32-v7a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-arm32-v7a.zip",
+      "size": 19557384
+    },
+    {
+      "name": "Xray-freebsd-arm32-v7a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-arm32-v7a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-freebsd-arm64-v8a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-arm64-v8a.zip",
+      "size": 19082741
+    },
+    {
+      "name": "Xray-freebsd-arm64-v8a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-freebsd-arm64-v8a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-32.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-32.zip",
+      "size": 20267274
+    },
+    {
+      "name": "Xray-linux-32.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-32.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-64.zip",
+      "size": 21136402
+    },
+    {
+      "name": "Xray-linux-64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-arm32-v5.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v5.zip",
+      "size": 20230102
+    },
+    {
+      "name": "Xray-linux-arm32-v5.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v5.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-arm32-v6.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v6.zip",
+      "size": 20221247
+    },
+    {
+      "name": "Xray-linux-arm32-v6.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v6.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-arm32-v7a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v7a.zip",
+      "size": 20201341
+    },
+    {
+      "name": "Xray-linux-arm32-v7a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm32-v7a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-arm64-v8a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm64-v8a.zip",
+      "size": 19716427
+    },
+    {
+      "name": "Xray-linux-arm64-v8a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-arm64-v8a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-loong64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-loong64.zip",
+      "size": 20282863
+    },
+    {
+      "name": "Xray-linux-loong64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-loong64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-mips32.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips32.zip",
+      "size": 28603716
+    },
+    {
+      "name": "Xray-linux-mips32.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips32.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-mips32le.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips32le.zip",
+      "size": 28436454
+    },
+    {
+      "name": "Xray-linux-mips32le.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips32le.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-mips64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64.zip",
+      "size": 19149355
+    },
+    {
+      "name": "Xray-linux-mips64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-mips64le.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64le.zip",
+      "size": 19059516
+    },
+    {
+      "name": "Xray-linux-mips64le.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-mips64le.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-ppc64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-ppc64.zip",
+      "size": 19746199
+    },
+    {
+      "name": "Xray-linux-ppc64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-ppc64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-ppc64le.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-ppc64le.zip",
+      "size": 19725091
+    },
+    {
+      "name": "Xray-linux-ppc64le.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-ppc64le.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-riscv64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-riscv64.zip",
+      "size": 20199421
+    },
+    {
+      "name": "Xray-linux-riscv64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-riscv64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-linux-s390x.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-s390x.zip",
+      "size": 20699974
+    },
+    {
+      "name": "Xray-linux-s390x.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-s390x.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-macos-64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-64.zip",
+      "size": 20755142
+    },
+    {
+      "name": "Xray-macos-64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-macos-arm64-v8a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-arm64-v8a.zip",
+      "size": 19674387
+    },
+    {
+      "name": "Xray-macos-arm64-v8a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-macos-arm64-v8a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-openbsd-32.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-32.zip",
+      "size": 19611595
+    },
+    {
+      "name": "Xray-openbsd-32.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-32.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-openbsd-64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-64.zip",
+      "size": 20389910
+    },
+    {
+      "name": "Xray-openbsd-64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-openbsd-arm32-v7a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-arm32-v7a.zip",
+      "size": 19528413
+    },
+    {
+      "name": "Xray-openbsd-arm32-v7a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-arm32-v7a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-openbsd-arm64-v8a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-arm64-v8a.zip",
+      "size": 19068559
+    },
+    {
+      "name": "Xray-openbsd-arm64-v8a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-openbsd-arm64-v8a.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-win7-32.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-32.zip",
+      "size": 20471928
+    },
+    {
+      "name": "Xray-win7-32.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-32.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-win7-64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-64.zip",
+      "size": 20912410
+    },
+    {
+      "name": "Xray-win7-64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-win7-64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-windows-32.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-32.zip",
+      "size": 20473037
+    },
+    {
+      "name": "Xray-windows-32.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-32.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-windows-64.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-64.zip",
+      "size": 20913304
+    },
+    {
+      "name": "Xray-windows-64.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-64.zip.dgst",
+      "size": 299
+    },
+    {
+      "name": "Xray-windows-arm64-v8a.zip",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-arm64-v8a.zip",
+      "size": 19316452
+    },
+    {
+      "name": "Xray-windows-arm64-v8a.zip.dgst",
+      "browser_download_url": "https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-windows-arm64-v8a.zip.dgst",
+      "size": 299
+    }
+  ]
+}

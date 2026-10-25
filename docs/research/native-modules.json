@@ -1,0 +1,3565 @@
+[
+  {
+    "Path": "rayrencore",
+    "Main": true,
+    "GoVersion": "1.27"
+  },
+  {
+    "Path": "buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go",
+    "Version": "v1.36.11-20260415201107-50325440f8f2.1",
+    "Time": "0001-01-01T00:00:00Z",
+    "Indirect": true,
+    "GoVersion": "1.23",
+    "Sum": "h1:s6hzCXtND/ICdGPTMGk7C+/BFlr2Jg5GyH0NKf4XGXg=",
+    "GoModSum": "h1:tvtbpgaVXZX4g6Pn+AnzFycuRK3MOz5HJfEGeEllXYM="
+  },
+  {
+    "Path": "buf.build/go/hyperpb",
+    "Version": "v0.1.3",
+    "Time": "2025-09-24T22:08:34Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "buf.build/go/protovalidate",
+    "Version": "v1.2.0",
+    "Time": "2026-04-17T12:30:59Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:DQVrUWkmGTBij+kOYv/x2LLxwcLaGKMdzShj1/6/3H0=",
+    "GoModSum": "h1:7rYiQEhqvAipoazpVNBBH2S2f8bjG4huMVy1V2Yofn4="
+  },
+  {
+    "Path": "buf.build/go/protoyaml",
+    "Version": "v0.7.0",
+    "Time": "2026-05-05T20:01:28Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:z4oVoFicbpPefhT7WAykxUdfp0yEQlhMQ2mCZOY5V38=",
+    "GoModSum": "h1:+a0cavd0uMvirb87xdu2ZMMmjlIQoiH/N2Ich5MGSQ0="
+  },
+  {
+    "Path": "cel.dev/expr",
+    "Version": "v0.25.2",
+    "Time": "2026-03-12T16:46:44Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0",
+    "Sum": "h1:K6j46C81hXtZQfuX60cVWQFBJahKSE2gfRbNuvr5bFs=",
+    "GoModSum": "h1:hrXvqGP6G6gyx8UAHSHJ5RGk//1Oj5nXQ2NI02Nrsg4="
+  },
+  {
+    "Path": "cloud.google.com/go",
+    "Version": "v0.123.0",
+    "Time": "2025-09-22T16:26:20Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "cloud.google.com/go/accessapproval",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/accesscontextmanager",
+    "Version": "v1.14.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/aiplatform",
+    "Version": "v1.125.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/analytics",
+    "Version": "v0.35.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/apigateway",
+    "Version": "v1.12.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/apigeeconnect",
+    "Version": "v1.12.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/apigeeregistry",
+    "Version": "v1.0.0",
+    "Time": "2026-05-11T16:07:01Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/appengine",
+    "Version": "v1.14.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/area120",
+    "Version": "v0.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/artifactregistry",
+    "Version": "v1.25.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/asset",
+    "Version": "v1.27.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/assuredworkloads",
+    "Version": "v1.18.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/auth",
+    "Version": "v0.20.0",
+    "Time": "2026-04-06T22:09:02Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/auth/oauth2adapt",
+    "Version": "v0.2.8",
+    "Time": "2025-03-20T15:18:21Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "cloud.google.com/go/automl",
+    "Version": "v1.20.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/baremetalsolution",
+    "Version": "v1.9.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/batch",
+    "Version": "v1.19.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/beyondcorp",
+    "Version": "v1.7.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/bigquery",
+    "Version": "v1.77.0",
+    "Time": "2026-05-04T18:06:24Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/bigtable",
+    "Version": "v1.47.0",
+    "Time": "2026-05-01T21:12:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/billing",
+    "Version": "v1.26.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/binaryauthorization",
+    "Version": "v1.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/certificatemanager",
+    "Version": "v1.14.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/channel",
+    "Version": "v1.26.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/cloudbuild",
+    "Version": "v1.30.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/clouddms",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/cloudtasks",
+    "Version": "v1.18.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/compute",
+    "Version": "v1.63.0",
+    "Time": "2026-05-14T20:32:23Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/compute/metadata",
+    "Version": "v0.9.0",
+    "Time": "2025-09-24T19:41:55Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "cloud.google.com/go/contactcenterinsights",
+    "Version": "v1.22.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/container",
+    "Version": "v1.49.0",
+    "Time": "2026-04-13T22:59:31Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/containeranalysis",
+    "Version": "v0.19.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/datacatalog",
+    "Version": "v1.32.0",
+    "Time": "2026-05-14T20:32:23Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/dataflow",
+    "Version": "v0.16.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/dataform",
+    "Version": "v1.0.0",
+    "Time": "2026-05-11T16:07:01Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/datafusion",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/datalabeling",
+    "Version": "v0.14.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/dataplex",
+    "Version": "v1.34.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/dataproc/v2",
+    "Version": "v2.22.0",
+    "Time": "2026-05-14T20:32:23Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/dataqna",
+    "Version": "v0.13.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/datastore",
+    "Version": "v1.23.0",
+    "Time": "2026-04-27T20:20:05Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/datastream",
+    "Version": "v1.20.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/deploy",
+    "Version": "v1.32.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/dialogflow",
+    "Version": "v1.82.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/dlp",
+    "Version": "v1.34.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/documentai",
+    "Version": "v1.48.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/domains",
+    "Version": "v0.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/edgecontainer",
+    "Version": "v1.9.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/errorreporting",
+    "Version": "v0.9.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/essentialcontacts",
+    "Version": "v1.12.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/eventarc",
+    "Version": "v1.23.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/filestore",
+    "Version": "v1.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/firestore",
+    "Version": "v1.22.0",
+    "Time": "2026-04-15T00:12:10Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/functions",
+    "Version": "v1.24.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/gkebackup",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/gkeconnect",
+    "Version": "v1.0.0",
+    "Time": "2026-05-11T16:07:01Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/gkehub",
+    "Version": "v0.21.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/gkemulticloud",
+    "Version": "v1.11.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/gsuiteaddons",
+    "Version": "v1.12.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/iam",
+    "Version": "v1.11.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/iap",
+    "Version": "v1.17.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/ids",
+    "Version": "v1.10.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/iot",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/kms",
+    "Version": "v1.31.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/language",
+    "Version": "v1.18.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/lifesciences",
+    "Version": "v0.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/logging",
+    "Version": "v1.18.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/longrunning",
+    "Version": "v1.0.0",
+    "Time": "2026-05-11T16:07:01Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/managedidentities",
+    "Version": "v1.12.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/maps",
+    "Version": "v1.35.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/mediatranslation",
+    "Version": "v0.13.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/memcache",
+    "Version": "v1.16.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/metastore",
+    "Version": "v1.19.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/monitoring",
+    "Version": "v1.29.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/networkconnectivity",
+    "Version": "v1.26.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/networkmanagement",
+    "Version": "v1.28.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/networksecurity",
+    "Version": "v0.16.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/notebooks",
+    "Version": "v1.17.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/optimization",
+    "Version": "v1.11.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/orchestration",
+    "Version": "v1.16.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/orgpolicy",
+    "Version": "v1.20.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/osconfig",
+    "Version": "v1.21.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/oslogin",
+    "Version": "v1.18.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/phishingprotection",
+    "Version": "v0.13.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/policytroubleshooter",
+    "Version": "v1.15.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/privatecatalog",
+    "Version": "v0.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/pubsub",
+    "Version": "v1.50.2",
+    "Time": "2026-03-31T23:07:24Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/pubsub/v2",
+    "Version": "v2.5.1",
+    "Time": "2026-03-31T23:07:16Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/pubsublite",
+    "Version": "v1.8.2",
+    "Time": "2024-06-05T00:20:59Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "cloud.google.com/go/recaptchaenterprise/v2",
+    "Version": "v2.26.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/recommendationengine",
+    "Version": "v0.14.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/recommender",
+    "Version": "v1.18.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/redis",
+    "Version": "v1.23.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/resourcemanager",
+    "Version": "v1.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/resourcesettings",
+    "Version": "v1.8.3",
+    "Time": "2025-01-02T19:03:39Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "cloud.google.com/go/retail",
+    "Version": "v1.31.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/run",
+    "Version": "v1.21.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/scheduler",
+    "Version": "v1.16.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/secretmanager",
+    "Version": "v1.20.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/security",
+    "Version": "v1.24.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/securitycenter",
+    "Version": "v1.44.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/servicedirectory",
+    "Version": "v1.17.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/shell",
+    "Version": "v1.12.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/spanner",
+    "Version": "v1.91.0",
+    "Time": "2026-04-22T17:04:45Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/speech",
+    "Version": "v1.35.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/storage",
+    "Version": "v1.62.1",
+    "Time": "2026-04-13T11:03:15Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/storagetransfer",
+    "Version": "v1.18.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/talent",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/texttospeech",
+    "Version": "v1.21.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/tpu",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/trace",
+    "Version": "v1.16.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/translate",
+    "Version": "v1.17.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/video",
+    "Version": "v1.32.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/videointelligence",
+    "Version": "v1.16.0",
+    "Time": "2026-04-30T21:32:36Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/vision/v2",
+    "Version": "v2.14.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/vmmigration",
+    "Version": "v1.15.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/vmwareengine",
+    "Version": "v1.8.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/vpcaccess",
+    "Version": "v1.13.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/webrisk",
+    "Version": "v1.16.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/websecurityscanner",
+    "Version": "v1.12.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "cloud.google.com/go/workflows",
+    "Version": "v1.19.0",
+    "Time": "2026-05-07T21:21:33Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "codeberg.org/rape4me/kc",
+    "Version": "v0.0.0-20260527074346-4cb2a45790c2",
+    "Time": "2026-05-27T07:43:46Z",
+    "Indirect": true,
+    "GoVersion": "1.26.3",
+    "Sum": "h1:u7QorW08YOZGj86cubeGpiwm+d0tMKa0e7syiBkO2eo=",
+    "GoModSum": "h1:ooInikVAZhJE+m+gHIekq52ZFkUPcCZAvY4u/m2M/V0="
+  },
+  {
+    "Path": "github.com/2dust/AndroidLibXrayLite",
+    "Version": "v0.0.0",
+    "Replace": {
+      "Path": "../AndroidLibXrayLite",
+      "GoVersion": "1.27"
+    },
+    "GoVersion": "1.27"
+  },
+  {
+    "Path": "github.com/BurntSushi/toml",
+    "Version": "v1.4.1-0.20240526193622-a339e1f7089c",
+    "Time": "2024-05-26T19:36:22Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp",
+    "Version": "v1.34.0",
+    "Time": "2026-07-10T15:34:08Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric",
+    "Version": "v0.55.0",
+    "Time": "2026-01-16T21:40:50Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping",
+    "Version": "v0.55.0",
+    "Time": "2026-01-16T21:40:50Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/Masterminds/semver/v3",
+    "Version": "v3.5.0",
+    "Time": "2026-04-30T15:39:17Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:kQceYJfbupGfZOKZQg0kou0DgAKhzDg2NZPAwZ/2OOE=",
+    "GoModSum": "h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM="
+  },
+  {
+    "Path": "github.com/Microsoft/go-winio",
+    "Version": "v0.6.2",
+    "Time": "2024-04-09T20:07:04Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=",
+    "GoModSum": "h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU="
+  },
+  {
+    "Path": "github.com/Microsoft/hcsshim",
+    "Version": "v0.13.0",
+    "Time": "2025-04-21T17:49:13Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "github.com/alecthomas/kingpin/v2",
+    "Version": "v2.4.0",
+    "Time": "2023-09-30T22:59:49Z",
+    "Indirect": true,
+    "GoVersion": "1.17"
+  },
+  {
+    "Path": "github.com/alecthomas/units",
+    "Version": "v0.0.0-20240927000941-0f3dac36c52b",
+    "Time": "2024-09-27T00:09:41Z",
+    "Indirect": true,
+    "GoVersion": "1.15"
+  },
+  {
+    "Path": "github.com/andybalholm/brotli",
+    "Version": "v1.2.0",
+    "Time": "2025-06-03T19:05:20Z",
+    "Indirect": true,
+    "GoVersion": "1.22",
+    "Sum": "h1:ukwgCxwYrmACq68yiUqwIWnGY0cTPox/M94sVwToPjQ=",
+    "GoModSum": "h1:rzTDkvFWvIrjDXZHkuS16NPggd91W3kUSvPlQ1pLaKY="
+  },
+  {
+    "Path": "github.com/antlr4-go/antlr/v4",
+    "Version": "v4.13.1",
+    "Time": "2024-05-15T15:52:48Z",
+    "Indirect": true,
+    "GoVersion": "1.22",
+    "Sum": "h1:SqQKkuVZ+zWkMMNkjy5FZe5mr5WURWnlpmOuzYWrPrQ=",
+    "GoModSum": "h1:GKmUxMtwp6ZgGwZSva4eWPC5mS6vUAmOABFgjdkM7Nw="
+  },
+  {
+    "Path": "github.com/apernet/quic-go",
+    "Version": "v0.61.1-0.20260806010916-184d081eef3e",
+    "Time": "2026-08-06T01:09:16Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:5mgtR5gwIgBKMiGI1QdXldZZ+SNor06Nbu1wCBulQBg=",
+    "GoModSum": "h1:x7qxEvX6MCVtDuBKHj3E+88+BtrbEMuAL5qGUKItjW8="
+  },
+  {
+    "Path": "github.com/at-wat/ebml-go",
+    "Version": "v0.18.0",
+    "Time": "2026-04-13T04:38:37Z",
+    "Indirect": true,
+    "GoVersion": "1.11"
+  },
+  {
+    "Path": "github.com/benbjohnson/clock",
+    "Version": "v1.3.5",
+    "Time": "2023-05-18T03:37:18Z",
+    "Indirect": true,
+    "GoVersion": "1.15",
+    "Sum": "h1:VvXlSJBzZpA/zum6Sj74hxwYI2DIxRWuNIoXAzHZz5o=",
+    "GoModSum": "h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA="
+  },
+  {
+    "Path": "github.com/beorn7/perks",
+    "Version": "v1.0.1",
+    "Time": "2019-07-31T12:00:54Z",
+    "Indirect": true,
+    "GoVersion": "1.11",
+    "Sum": "h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=",
+    "GoModSum": "h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw="
+  },
+  {
+    "Path": "github.com/bep/debounce",
+    "Version": "v1.2.1",
+    "Time": "2022-05-15T14:24:51Z",
+    "Indirect": true,
+    "Sum": "h1:v67fRdBA9UQu2NhLFXrSg0Brw7CexQekrBwDMM8bzeY=",
+    "GoModSum": "h1:H8yggRPQKLUhUoqrJC1bO2xNya7vanpDl7xR3ISbCJ0="
+  },
+  {
+    "Path": "github.com/brianvoe/gofakeit/v6",
+    "Version": "v6.28.0",
+    "Time": "2024-01-20T00:57:24Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:Xib46XXuQfmlLS2EXRuJpqcw8St6qSZz75OUo0tgAW4=",
+    "GoModSum": "h1:Xj58BMSnFqcn/fAQeSK+/PLtC5kSb7FJIq4JyGa8vEs="
+  },
+  {
+    "Path": "github.com/bsm/ginkgo/v2",
+    "Version": "v2.12.0",
+    "Time": "2023-08-31T08:29:34Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:Ny8MWAHyOepLGlLKYmXG4IEkioBysk6GpaRTLC8zwWs=",
+    "GoModSum": "h1:SwYbGRRDovPVboqFv0tPTcG1sN61LM1Z4ARdbAV9g4c="
+  },
+  {
+    "Path": "github.com/bsm/gomega",
+    "Version": "v1.27.10",
+    "Time": "2023-08-31T08:30:31Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:yeMWxP2pV2fG3FgAODIY8EiRE3dy0aeFYt4l7wh6yKA=",
+    "GoModSum": "h1:JyEr/xRbxbtgWNi8tIEVPUYZ5Dzef52k01W3YH0H+O0="
+  },
+  {
+    "Path": "github.com/bwesterb/go-ristretto",
+    "Version": "v1.2.4",
+    "Time": "2026-07-15T10:30:38Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/cenkalti/backoff",
+    "Version": "v2.2.1+incompatible",
+    "Time": "2019-07-17T10:48:21Z",
+    "Indirect": true,
+    "Sum": "h1:tNowT99t7UNflLxfYYSlKYsBpXdEet03Pg2g16Swow4="
+  },
+  {
+    "Path": "github.com/cenkalti/backoff/v5",
+    "Version": "v5.0.3",
+    "Time": "2025-07-23T16:23:35Z",
+    "Indirect": true,
+    "GoVersion": "1.23",
+    "Sum": "h1:ZN+IMa753KfX5hd8vVaMixjnqRZ3y8CuJKRKj1xcsSM=",
+    "GoModSum": "h1:rkhZdG3JZukswDf7f0cwqPNk4K0sa+F97BxZthm/crw="
+  },
+  {
+    "Path": "github.com/census-instrumentation/opencensus-proto",
+    "Version": "v0.2.1",
+    "Time": "2019-07-18T16:27:18Z",
+    "Indirect": true,
+    "GoModSum": "h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU="
+  },
+  {
+    "Path": "github.com/cespare/xxhash/v2",
+    "Version": "v2.3.0",
+    "Time": "2024-04-04T20:00:10Z",
+    "Indirect": true,
+    "GoVersion": "1.11",
+    "Sum": "h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=",
+    "GoModSum": "h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs="
+  },
+  {
+    "Path": "github.com/chzyer/logex",
+    "Version": "v1.1.10",
+    "Time": "2015-10-10T15:13:41Z",
+    "Indirect": true,
+    "GoModSum": "h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI="
+  },
+  {
+    "Path": "github.com/chzyer/readline",
+    "Version": "v1.5.1",
+    "Time": "2022-07-15T12:48:48Z",
+    "Indirect": true,
+    "GoVersion": "1.15"
+  },
+  {
+    "Path": "github.com/chzyer/test",
+    "Version": "v0.0.0-20180213035817-a1ea475d72b1",
+    "Time": "2018-02-13T03:58:17Z",
+    "Indirect": true,
+    "GoModSum": "h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU="
+  },
+  {
+    "Path": "github.com/cilium/ebpf",
+    "Version": "v0.16.0",
+    "Time": "2024-07-23T16:13:54Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/client9/misspell",
+    "Version": "v0.3.4",
+    "Time": "2018-03-09T01:55:12Z",
+    "Indirect": true,
+    "GoModSum": "h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw="
+  },
+  {
+    "Path": "github.com/cloudflare/circl",
+    "Version": "v1.6.5",
+    "Time": "2026-08-05T16:32:19Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:O64F26HEqNhznd/hrC5KZXVKYuKM2rx4deZDTc4ihQA=",
+    "GoModSum": "h1:h5LNyxAc5nTue9DS5jT+48en2PSDYt3zdGnz5OstK6c="
+  },
+  {
+    "Path": "github.com/cncf/udpa/go",
+    "Version": "v0.0.0-20191209042840-269d4d468f6f",
+    "Time": "2019-12-09T04:28:40Z",
+    "Indirect": true,
+    "GoVersion": "1.13",
+    "GoModSum": "h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc="
+  },
+  {
+    "Path": "github.com/cncf/xds/go",
+    "Version": "v0.0.0-20260202195803-dba9d589def2",
+    "Time": "2026-02-02T19:58:03Z",
+    "Indirect": true,
+    "GoVersion": "1.24.6"
+  },
+  {
+    "Path": "github.com/coder/websocket",
+    "Version": "v1.8.14",
+    "Time": "2025-09-05T08:16:22Z",
+    "Indirect": true,
+    "GoVersion": "1.23",
+    "Sum": "h1:9L0p0iKiNOibykf283eHkKUHHrpG7f65OE3BhhO7v9g=",
+    "GoModSum": "h1:NX3SzP+inril6yawo5CQXx8+fk145lPDC6pumgx0mVg="
+  },
+  {
+    "Path": "github.com/containerd/cgroups/v3",
+    "Version": "v3.0.5",
+    "Time": "2024-12-17T02:43:09Z",
+    "Indirect": true,
+    "GoVersion": "1.22.0"
+  },
+  {
+    "Path": "github.com/containerd/console",
+    "Version": "v1.0.5",
+    "Time": "2025-05-20T06:25:07Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/containerd/containerd/api",
+    "Version": "v1.10.0",
+    "Time": "2025-11-05T15:11:32Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "github.com/containerd/containerd/v2",
+    "Version": "v2.2.4",
+    "Time": "2026-05-20T23:39:32Z",
+    "Indirect": true,
+    "GoVersion": "1.24.3"
+  },
+  {
+    "Path": "github.com/containerd/continuity",
+    "Version": "v0.4.5",
+    "Time": "2024-10-30T04:18:59Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/containerd/errdefs",
+    "Version": "v1.0.0",
+    "Time": "2024-10-08T13:10:09Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:tg5yIfIlQIrxYtu9ajqY42W3lpS19XqdxRQeEwYG8PI=",
+    "GoModSum": "h1:+YBYIdtsnF4Iw6nWZhJcqGSg/dwvV7tyJ/kCkyJ2k+M="
+  },
+  {
+    "Path": "github.com/containerd/errdefs/pkg",
+    "Version": "v0.3.0",
+    "Time": "2024-10-08T13:10:09Z",
+    "Indirect": true,
+    "GoVersion": "1.22",
+    "Sum": "h1:9IKJ06FvyNlexW690DXuQNx2KA2cUJXx151Xdx3ZPPE=",
+    "GoModSum": "h1:NJw6s9HwNuRhnjJhM7pylWwMyAkmCQvQ4GpJHEqRLVk="
+  },
+  {
+    "Path": "github.com/containerd/fifo",
+    "Version": "v1.1.0",
+    "Time": "2023-02-17T21:37:13Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/containerd/go-runc",
+    "Version": "v1.1.0",
+    "Time": "2023-05-17T04:55:20Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/containerd/log",
+    "Version": "v0.1.0",
+    "Time": "2023-09-09T00:27:15Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/containerd/platforms",
+    "Version": "v1.0.0-rc.2",
+    "Time": "2025-08-21T22:24:38Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/containerd/plugin",
+    "Version": "v1.0.0",
+    "Time": "2024-10-20T22:03:21Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/containerd/ttrpc",
+    "Version": "v1.2.8",
+    "Time": "2026-03-05T00:05:28Z",
+    "Indirect": true,
+    "GoVersion": "1.22"
+  },
+  {
+    "Path": "github.com/containerd/typeurl/v2",
+    "Version": "v2.2.3",
+    "Time": "2024-11-07T03:45:23Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/coreos/go-systemd/v22",
+    "Version": "v22.6.0",
+    "Time": "2025-08-20T18:00:08Z",
+    "Indirect": true,
+    "GoVersion": "1.23"
+  },
+  {
+    "Path": "github.com/creack/pty",
+    "Version": "v1.1.24",
+    "Time": "2024-10-31T18:56:50Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/davecgh/go-spew",
+    "Version": "v1.1.2-0.20180830191138-d8f796af33cc",
+    "Time": "2018-08-30T19:11:38Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/dennwc/iters",
+    "Version": "v1.2.2",
+    "Time": "2025-08-18T12:13:59Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:XH2/Etihiy9ZvPOVCR+icQXeYlhbvS7k0qro4x/2qQo=",
+    "GoModSum": "h1:M9KuuMBeyEXYTmB7EnI9SCyALFCmPWOIxn5W1L0CjGg="
+  },
+  {
+    "Path": "github.com/distribution/reference",
+    "Version": "v0.6.0",
+    "Time": "2024-03-20T17:09:59Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:0IXCQ5g4/QMHHkarYzh5l+u8T3t73zM5QvfrDyIgxBk=",
+    "GoModSum": "h1:BbU0aIcezP1/5jX/8MP0YiH4SdvB5Y4f/wlDRiLyi3E="
+  },
+  {
+    "Path": "github.com/dlclark/regexp2",
+    "Version": "v1.11.4",
+    "Time": "2024-08-05T03:12:23Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/dlclark/regexp2/v2",
+    "Version": "v2.5.2",
+    "Time": "2026-07-19T17:59:38Z",
+    "Indirect": true,
+    "GoVersion": "1.25",
+    "Sum": "h1:HAsucWRhsqcDzl6Ua9aR8JwYOTzrZyPrF0/FNxJVAI0=",
+    "GoModSum": "h1:avUrQvPaLz2DrFNHJF0taWAFFX2C1GMSSoeiqFjcBmU="
+  },
+  {
+    "Path": "github.com/docker/go-connections",
+    "Version": "v0.7.0",
+    "Time": "2026-04-15T21:50:38Z",
+    "Indirect": true,
+    "GoVersion": "1.23",
+    "Sum": "h1:6SsRfJddP22WMrCkj19x9WKjEDTB+ahsdiGYf0mN39c=",
+    "GoModSum": "h1:no1qkHdjq7kLMGUXYAduOhYPSJxxvgWBh7ogVvptn3Q="
+  },
+  {
+    "Path": "github.com/docker/go-units",
+    "Version": "v0.5.0",
+    "Time": "2022-05-17T10:43:04Z",
+    "Indirect": true,
+    "Sum": "h1:69rxXcBk27SvSaaxTtLh/8llcHD8vYHT7WSdRZ/jvr4=",
+    "GoModSum": "h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk="
+  },
+  {
+    "Path": "github.com/dop251/base64dec",
+    "Version": "v0.0.0-20231022112746-c6c9f9a96217",
+    "Time": "2023-10-22T11:27:46Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/dop251/goja",
+    "Version": "v0.0.0-20260926152631-39ec2650adc9",
+    "Time": "2026-09-26T15:26:31Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:Ksd3Vil12b/ykT5NjGzd3qNc688cJB9OUXJZZChEktI=",
+    "GoModSum": "h1:u8yZRUavu+N4EnFFy6J5fVtjE7lEcZ2YyV2GcBXY9c8="
+  },
+  {
+    "Path": "github.com/dop251/goja_nodejs",
+    "Version": "v0.0.0-20260918173711-b481721df8a2",
+    "Time": "2026-09-18T17:37:11Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:4cOnoHK48VXmDGOPp2h+u7sYZw/1Ou2JbHjTgU0DF0A=",
+    "GoModSum": "h1:Tb7Xxye4LX7cT3i8YLvmPMGCV92IOi4CDZvm/V8ylc0="
+  },
+  {
+    "Path": "github.com/dvyukov/go-fuzz",
+    "Version": "v0.0.0-20210103155950-6a8e9d1f2415",
+    "Time": "2021-01-03T15:59:50Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/emicklei/go-restful/v3",
+    "Version": "v3.11.0",
+    "Time": "2023-08-19T06:54:41Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/envoyproxy/go-control-plane",
+    "Version": "v0.14.0",
+    "Time": "2025-11-04T22:01:44Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "github.com/envoyproxy/go-control-plane/envoy",
+    "Version": "v1.37.0",
+    "Time": "2026-01-13T06:26:49Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/envoyproxy/go-control-plane/ratelimit",
+    "Version": "v0.1.0",
+    "Time": "2024-12-23T15:25:59Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/envoyproxy/protoc-gen-validate",
+    "Version": "v1.3.3",
+    "Time": "2026-02-18T16:13:16Z",
+    "Indirect": true,
+    "GoVersion": "1.24.1"
+  },
+  {
+    "Path": "github.com/felixge/httpsnoop",
+    "Version": "v1.1.0",
+    "Time": "2026-06-11T18:42:32Z",
+    "Indirect": true,
+    "GoVersion": "1.25",
+    "Sum": "h1:3YtUj32ZZkqZtt3sZZsClsymw/QDuVfpNhoA31zeORc=",
+    "GoModSum": "h1:Zqxgdd+1Rkcz8euOqdr7lqgCRJztwr5hp9vDSi5UZCE="
+  },
+  {
+    "Path": "github.com/frostbyte73/core",
+    "Version": "v0.1.1",
+    "Time": "2025-02-13T04:41:22Z",
+    "Indirect": true,
+    "GoVersion": "1.22.1",
+    "Sum": "h1:ChhJOR7bAKOCPbA+lqDLE2cGKlCG5JXsDvvQr4YaJIA=",
+    "GoModSum": "h1:mhfOtR+xWAvwXiwor7jnqPMnu4fxbv1F2MwZ0BEpzZo="
+  },
+  {
+    "Path": "github.com/fsnotify/fsnotify",
+    "Version": "v1.10.1",
+    "Time": "2026-05-04T10:39:17Z",
+    "Indirect": true,
+    "GoVersion": "1.23",
+    "Sum": "h1:b0/UzAf9yR5rhf3RPm9gf3ehBPpf0oZKIjtpKrx59Ho=",
+    "GoModSum": "h1:TLheqan6HD6GBK6PrDWyDPBaEV8LspOxvPSjC+bVfgo="
+  },
+  {
+    "Path": "github.com/fxamacker/cbor/v2",
+    "Version": "v2.7.0",
+    "Time": "2024-06-24T04:49:42Z",
+    "Indirect": true,
+    "GoVersion": "1.17"
+  },
+  {
+    "Path": "github.com/gammazero/deque",
+    "Version": "v1.2.1",
+    "Time": "2026-02-11T03:30:30Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:9fnQVFCCZ9/NOc7ccTNqzoKd1tCWOqeI05/lPqFPMGQ=",
+    "GoModSum": "h1:5nSFkzVm+afG9+gy0VIowlqVAW4N8zNcMne+CMQVD2g="
+  },
+  {
+    "Path": "github.com/ghodss/yaml",
+    "Version": "v1.0.1-0.20220118164431-d8423dcdf344",
+    "Time": "2022-01-18T16:44:31Z",
+    "Indirect": true,
+    "Sum": "h1:Arcl6UOIS/kgO2nW3A65HN+7CMjSDP/gofXL4CZt1V4=",
+    "GoModSum": "h1:GIjDIg/heH5DOkXY3YJ/wNhfHsQHoXGjl8G8amsYQ1I="
+  },
+  {
+    "Path": "github.com/go-jose/go-jose/v4",
+    "Version": "v4.1.4",
+    "Time": "2026-03-31T23:33:50Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/go-logr/logr",
+    "Version": "v1.4.3",
+    "Time": "2025-05-19T04:56:57Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:CjnDlHq8ikf6E492q6eKboGOC0T8CDaOvkHCIg8idEI=",
+    "GoModSum": "h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY="
+  },
+  {
+    "Path": "github.com/go-logr/stdr",
+    "Version": "v1.2.2",
+    "Time": "2021-12-14T08:00:35Z",
+    "Indirect": true,
+    "GoVersion": "1.16",
+    "Sum": "h1:hSWxHoqTgW2S2qGc0LTAI563KZ5YKYRhT3MFKZMbjag=",
+    "GoModSum": "h1:mMo/vtBO5dYbehREoey6XUKy/eSumjCCveDpRre4VKE="
+  },
+  {
+    "Path": "github.com/go-openapi/jsonpointer",
+    "Version": "v0.21.0",
+    "Time": "2024-03-09T18:18:34Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/go-openapi/jsonreference",
+    "Version": "v0.20.2",
+    "Time": "2023-01-14T04:19:40Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/go-openapi/swag",
+    "Version": "v0.23.0",
+    "Time": "2024-03-09T18:11:11Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/go-sourcemap/sourcemap",
+    "Version": "v2.1.4+incompatible",
+    "Time": "2024-03-13T07:20:32Z",
+    "Indirect": true,
+    "Sum": "h1:a+iTbH5auLKxaNwQFg0B+TCYl6lbukKPc7b5x0n1s6Q=",
+    "GoModSum": "h1:F8jJfvm2KbVjc5NqelyYJmf/v5J0dwNLS2mL4sNA1Jg="
+  },
+  {
+    "Path": "github.com/goccy/go-yaml",
+    "Version": "v1.19.2",
+    "Time": "2026-01-08T01:12:13Z",
+    "Indirect": true,
+    "GoVersion": "1.21.0",
+    "Sum": "h1:PmFC1S6h8ljIz6gMRBopkjP1TVT7xuwrButHID66PoM=",
+    "GoModSum": "h1:XBurs7gK8ATbW4ZPGKgcbrY1Br56PdM69F7LkFRi1kA="
+  },
+  {
+    "Path": "github.com/godbus/dbus/v5",
+    "Version": "v5.1.0",
+    "Time": "2022-02-27T11:53:47Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/gofrs/flock",
+    "Version": "v0.13.0",
+    "Time": "2025-10-09T22:24:42Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/gogo/protobuf",
+    "Version": "v1.3.2",
+    "Time": "2021-01-10T08:01:47Z",
+    "Indirect": true,
+    "GoVersion": "1.15"
+  },
+  {
+    "Path": "github.com/golang-jwt/jwt/v5",
+    "Version": "v5.3.1",
+    "Time": "2026-01-28T19:58:13Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:kYf81DTWFe7t+1VvL7eS+jKFVWaUnK9cB1qbwn63YCY=",
+    "GoModSum": "h1:fxCRLWMO43lRc8nhHWY6LGqRcf+1gQWArsqaEUEa5bE="
+  },
+  {
+    "Path": "github.com/golang/glog",
+    "Version": "v1.2.5",
+    "Time": "2025-04-29T08:43:26Z",
+    "Indirect": true,
+    "GoVersion": "1.19"
+  },
+  {
+    "Path": "github.com/golang/groupcache",
+    "Version": "v0.0.0-20210331224755-41bb18bfe9da",
+    "Time": "2021-03-31T22:47:55Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/golang/mock",
+    "Version": "v1.7.0-rc.1",
+    "Time": "2022-05-12T03:06:13Z",
+    "Indirect": true,
+    "GoVersion": "1.15",
+    "Sum": "h1:YojYx61/OLFsiv6Rw1Z96LpldJIy31o+UHmwAUMJ6/U=",
+    "GoModSum": "h1:s42URUywIqd+OcERslBJvOjepvNymP31m3q8d/GkuRs="
+  },
+  {
+    "Path": "github.com/golang/protobuf",
+    "Version": "v1.5.4",
+    "Time": "2024-03-06T06:45:40Z",
+    "Indirect": true,
+    "GoVersion": "1.17",
+    "Sum": "h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=",
+    "GoModSum": "h1:lnTiLA8Wa4RWRcIUkrtSVa5nRhsEGBg48fD6rSs7xps="
+  },
+  {
+    "Path": "github.com/google/btree",
+    "Version": "v1.1.3",
+    "Time": "2024-08-21T16:26:17Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:CVpQJjYgC4VbzxeGVHfvZrv1ctoYCAI8vbl07Fcxlyg=",
+    "GoModSum": "h1:qOPhT0dTNdNzV6Z/lhRX0YXUafgPLFUh+gZMl761Gm4="
+  },
+  {
+    "Path": "github.com/google/cel-go",
+    "Version": "v0.28.1",
+    "Time": "2026-04-30T03:19:55Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0",
+    "Sum": "h1:YWIwi77J4xIsYUwAF/iIuS6haffzIHS8yWI8glSbLWM=",
+    "GoModSum": "h1:X0bD6iVNR8pkROSOoHVdgTkzmRcosof7WQqCD6wcMc8="
+  },
+  {
+    "Path": "github.com/google/gnostic-models",
+    "Version": "v0.6.8",
+    "Time": "2022-04-12T22:34:26Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/google/go-cmp",
+    "Version": "v0.7.0",
+    "Time": "2025-01-14T18:15:44Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=",
+    "GoModSum": "h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU="
+  },
+  {
+    "Path": "github.com/google/gofuzz",
+    "Version": "v1.2.0",
+    "Time": "2020-08-04T22:43:24Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/google/gopacket",
+    "Version": "v1.1.19",
+    "Time": "2020-10-19T16:12:32Z",
+    "Indirect": true,
+    "GoVersion": "1.12",
+    "Sum": "h1:ves8RnFZPGiFnTS0uPQStjwru6uO6h+nlr9j6fL7kF8=",
+    "GoModSum": "h1:iJ8V8n6KS+z2U1A8pUwu8bW5SyEMkXJB8Yo/Vo+TKTo="
+  },
+  {
+    "Path": "github.com/google/pprof",
+    "Version": "v0.0.0-20240727154555-813a5fbdbec8",
+    "Time": "2024-07-27T15:45:55Z",
+    "Indirect": true,
+    "GoVersion": "1.19",
+    "Sum": "h1:FKHo8hFI3A+7w0aUQuYXQ+6EN5stWmeY/AZqtM8xk9k=",
+    "GoModSum": "h1:K1liHPHnj73Fdn/EKuT8nrFqBihUSKXoLYU0BuatOYo="
+  },
+  {
+    "Path": "github.com/google/s2a-go",
+    "Version": "v0.1.9",
+    "Time": "2025-01-06T17:53:46Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/google/shlex",
+    "Version": "v0.0.0-20191202100458-e7afc7fbc510",
+    "Time": "2019-12-02T10:04:58Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/google/subcommands",
+    "Version": "v1.0.2-0.20190508160503-636abe8753b8",
+    "Time": "2019-05-08T16:05:03Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/google/uuid",
+    "Version": "v1.6.0",
+    "Time": "2024-01-23T18:54:04Z",
+    "Indirect": true,
+    "Sum": "h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=",
+    "GoModSum": "h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo="
+  },
+  {
+    "Path": "github.com/googleapis/enterprise-certificate-proxy",
+    "Version": "v0.3.15",
+    "Time": "2026-04-15T18:05:21Z",
+    "Indirect": true,
+    "GoVersion": "1.24.11"
+  },
+  {
+    "Path": "github.com/googleapis/gax-go/v2",
+    "Version": "v2.22.0",
+    "Time": "2026-04-14T19:15:00Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "github.com/gorilla/websocket",
+    "Version": "v1.5.4-0.20250319132907-e064f32e3674",
+    "Time": "2025-03-19T13:29:07Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:JeSE6pjso5THxAzdVpqr6/geYxZytqFMBCOtn/ujyeo=",
+    "GoModSum": "h1:r4w70xmWCQKmi1ONH4KIaBptdivuRPyosB9RmPlGEwA="
+  },
+  {
+    "Path": "github.com/grpc-ecosystem/grpc-gateway/v2",
+    "Version": "v2.29.0",
+    "Time": "2026-04-15T18:42:47Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "github.com/hashicorp/go-cleanhttp",
+    "Version": "v0.5.2",
+    "Time": "2021-02-03T18:51:13Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/hashicorp/go-retryablehttp",
+    "Version": "v0.7.8",
+    "Time": "2025-06-18T14:25:10Z",
+    "Indirect": true,
+    "GoVersion": "1.23"
+  },
+  {
+    "Path": "github.com/huin/goupnp",
+    "Version": "v1.2.0",
+    "Time": "2023-05-10T16:07:24Z",
+    "Indirect": true,
+    "GoVersion": "1.14",
+    "Sum": "h1:uOKW26NG1hsSSbXIZ1IR7XP9Gjd1U8pnLaCMgntmkmY=",
+    "GoModSum": "h1:gnGPsThkYa7bFi/KWmEysQRf48l2dvR5bxr2OFckNX8="
+  },
+  {
+    "Path": "github.com/ianlancetaylor/demangle",
+    "Version": "v0.0.0-20240312041847-bd984b5ce465",
+    "Time": "2024-03-12T04:18:47Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/in-toto/attestation",
+    "Version": "v1.1.2",
+    "Time": "2025-06-13T20:47:12Z",
+    "Indirect": true,
+    "GoVersion": "1.22"
+  },
+  {
+    "Path": "github.com/in-toto/in-toto-golang",
+    "Version": "v0.11.0",
+    "Time": "2026-05-04T16:16:22Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/jackpal/go-nat-pmp",
+    "Version": "v1.0.2",
+    "Time": "2019-11-16T04:51:08Z",
+    "Indirect": true,
+    "Sum": "h1:KzKSgb7qkJvOUTqYl9/Hg/me3pWgBmERKrTGD7BdWus=",
+    "GoModSum": "h1:QPH045xvCAeXUZOxsnwmrtiCoxIr9eob+4orBN1SBKc="
+  },
+  {
+    "Path": "github.com/jfreymuth/oggvorbis",
+    "Version": "v1.0.5",
+    "Time": "2023-02-21T20:55:59Z",
+    "Indirect": true,
+    "GoVersion": "1.15"
+  },
+  {
+    "Path": "github.com/jfreymuth/vorbis",
+    "Version": "v1.0.2",
+    "Time": "2021-01-30T18:14:57Z",
+    "Indirect": true,
+    "GoVersion": "1.15"
+  },
+  {
+    "Path": "github.com/jlaffaye/ftp",
+    "Version": "v0.2.4",
+    "Time": "2026-08-22T01:22:27Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:JqI85DdkfZj8ntaHk8W9U2SC3jNfiPUU70+wtIWmlfE=",
+    "GoModSum": "h1:Y1ZnkzxownGIuX7xQ1mQzzkZ21+DbjVIyeKL/V+IIz4="
+  },
+  {
+    "Path": "github.com/joho/godotenv",
+    "Version": "v1.5.1",
+    "Time": "2023-02-05T21:47:38Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/jordanlewis/gcassert",
+    "Version": "v0.0.0-20250430164644-389ef753e22e",
+    "Time": "2025-04-30T16:46:44Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/josharian/intern",
+    "Version": "v1.0.0",
+    "Time": "2019-12-14T22:12:22Z",
+    "Indirect": true,
+    "GoVersion": "1.5"
+  },
+  {
+    "Path": "github.com/jpillora/backoff",
+    "Version": "v1.0.0",
+    "Time": "2019-10-03T12:57:08Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/json-iterator/go",
+    "Version": "v1.1.12",
+    "Time": "2021-09-11T02:17:26Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/juju/ratelimit",
+    "Version": "v1.0.2",
+    "Time": "2019-10-02T06:26:51Z",
+    "Indirect": true,
+    "Sum": "h1:sRxmtRiajbvrcLQT7S+JbqU0ntsb9W2yhSdNN8tWfaI=",
+    "GoModSum": "h1:qapgC/Gy+xNh9UxzV13HGGl/6UXNN+ct+vwSgWNm/qk="
+  },
+  {
+    "Path": "github.com/julienschmidt/httprouter",
+    "Version": "v1.3.0",
+    "Time": "2019-09-29T23:21:22Z",
+    "Indirect": true,
+    "GoVersion": "1.7"
+  },
+  {
+    "Path": "github.com/jxskiss/base62",
+    "Version": "v1.1.0",
+    "Time": "2022-01-03T15:23:11Z",
+    "Indirect": true,
+    "GoVersion": "1.13",
+    "Sum": "h1:A5zbF8v8WXx2xixnAKD2w+abC+sIzYJX+nxmhA6HWFw=",
+    "GoModSum": "h1:HhWAlUXvxKThfOlZbcuFzsqwtF5TcqS9ru3y5GfjWAc="
+  },
+  {
+    "Path": "github.com/klauspost/compress",
+    "Version": "v1.20.0",
+    "Time": "2026-09-02T12:08:18Z",
+    "Indirect": true,
+    "GoVersion": "1.25",
+    "Sum": "h1:a3C1ke2ohxFymNlb2HWAHjDeKCI90scRskErZkR0ezA=",
+    "GoModSum": "h1:LUdAzn7YLVvxLpc7y3V1m40wESHTgc1422pwwBSKYuI="
+  },
+  {
+    "Path": "github.com/klauspost/cpuid/v2",
+    "Version": "v2.4.0",
+    "Time": "2026-06-17T09:04:27Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:S6Hrbc7+ywsr0r+RLapfGBHfyefhCTwEh3A0tV913Dw=",
+    "GoModSum": "h1:19jmZ9mjzoF//ddRSUsv0zfBTJWh3QJh9FNxZTMrGxU="
+  },
+  {
+    "Path": "github.com/klauspost/reedsolomon",
+    "Version": "v1.14.0",
+    "Time": "2026-04-22T08:42:19Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:5YSZeclzSYg5nl349+GDG/agDtQ6MZiwUYXvVKN1Jx0=",
+    "GoModSum": "h1:yjqqjgMTQkBUHSG97/rm4zipffCNbCiZcB3kTqr++sQ="
+  },
+  {
+    "Path": "github.com/koron/go-ssdp",
+    "Version": "v0.0.4",
+    "Time": "2023-02-26T08:13:08Z",
+    "Indirect": true,
+    "GoVersion": "1.19",
+    "Sum": "h1:1IDwrghSKYM7yLf7XCzbByg2sJ/JcNOZRXS2jczTwz0=",
+    "GoModSum": "h1:oDXq+E5IL5q0U8uSBcoAXzTzInwy5lEgC91HoKtbmZk="
+  },
+  {
+    "Path": "github.com/kr/pretty",
+    "Version": "v0.3.1",
+    "Time": "2022-08-29T23:03:05Z",
+    "Indirect": true,
+    "GoVersion": "1.12",
+    "Sum": "h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=",
+    "GoModSum": "h1:hoEshYVHaxMs3cyo3Yncou5ZscifuDolrwPKZanG3xk="
+  },
+  {
+    "Path": "github.com/kr/text",
+    "Version": "v0.2.0",
+    "Time": "2020-02-14T20:31:06Z",
+    "Indirect": true,
+    "Sum": "h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=",
+    "GoModSum": "h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE="
+  },
+  {
+    "Path": "github.com/kylelemons/godebug",
+    "Version": "v1.1.0",
+    "Time": "2019-05-05T01:16:37Z",
+    "Indirect": true,
+    "GoVersion": "1.11"
+  },
+  {
+    "Path": "github.com/libp2p/go-nat",
+    "Version": "v1.0.1-0.20250821073202-01afc089f138",
+    "Time": "2025-08-21T07:32:02Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:YohuNPT/1k3VcThCQlBZ43PCPWPfMRS1zcxWBF2SLK8=",
+    "GoModSum": "h1:TXQg5tfSy+bUjnhT5728j5j/MBj7keIYqqZ1+8k/ui8="
+  },
+  {
+    "Path": "github.com/libp2p/go-netroute",
+    "Version": "v0.2.1",
+    "Time": "2022-11-01T15:27:21Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:V8kVrpD8GK0Riv15/7VN6RbUQ3URNZVosw7H2v9tksU=",
+    "GoModSum": "h1:hraioZr0fhBjG0ZRXJJ6Zj2IVEVNx6tDTFQfSmcq7mQ="
+  },
+  {
+    "Path": "github.com/lithammer/shortuuid/v4",
+    "Version": "v4.2.0",
+    "Time": "2024-12-02T07:40:50Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:LMFOzVB3996a7b8aBuEXxqOBflbfPQAiVzkIcHO0h8c=",
+    "GoModSum": "h1:D5noHZ2oFw/YaKCfGy0YxyE7M0wMbezmMjPdhyEFe6Y="
+  },
+  {
+    "Path": "github.com/livekit/mageutil",
+    "Version": "v0.0.0-20250511045019-0f1ff63f7731",
+    "Time": "2025-05-11T04:50:19Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:9x+U2HGLrSw5ATTo469PQPkqzdoU7be46ryiCDO3boc=",
+    "GoModSum": "h1:Rs3MhFwutWhGwmY1VQsygw28z5bWcnEYmS1OG9OxjOQ="
+  },
+  {
+    "Path": "github.com/livekit/media-sdk",
+    "Version": "v0.0.0-20260605212526-4c11a51d3c97",
+    "Time": "2026-06-05T21:25:26Z",
+    "Indirect": true,
+    "GoVersion": "1.26"
+  },
+  {
+    "Path": "github.com/livekit/mediatransportutil",
+    "Version": "v0.0.0-20260605212259-862d4a7bcb1e",
+    "Time": "2026-06-05T21:22:59Z",
+    "Indirect": true,
+    "GoVersion": "1.26",
+    "Sum": "h1:SkgQRcG2VYEhh80Qb/zYZo8rWKJzNfJcfUQnXe6su2M=",
+    "GoModSum": "h1:o8CFmAdrVwzJNOCsQCLUzXRjokkufNshnQHOe4fRaqU="
+  },
+  {
+    "Path": "github.com/livekit/protocol",
+    "Version": "v1.50.1",
+    "Time": "2026-07-20T10:09:48Z",
+    "Indirect": true,
+    "GoVersion": "1.26",
+    "Sum": "h1:MOaLOFedKHQ1vteYjCFb+1Jypk3kQsV6h7gV4apgc+M=",
+    "GoModSum": "h1:jO+y05AU9Ec4JswDyuzKCZ4bhziOS0CzMqgnbj60Dzs="
+  },
+  {
+    "Path": "github.com/livekit/psrpc",
+    "Version": "v0.7.2",
+    "Time": "2026-06-05T21:13:20Z",
+    "Indirect": true,
+    "GoVersion": "1.25.5",
+    "Sum": "h1:6oZ+NODJ2pLyaT6VqDq1F4Qc/3TpDUSpyphj/P9MhQc=",
+    "GoModSum": "h1:rAI+m2+/cb4x9RXhLRtUx5ZwdfjjXOl4zi46IjEetaw="
+  },
+  {
+    "Path": "github.com/lxn/walk",
+    "Version": "v0.0.0-20210112085537-c389da54e794",
+    "Time": "2021-01-12T08:55:37Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/lxn/win",
+    "Version": "v0.0.0-20210218163916-a377121e959e",
+    "Time": "2021-02-18T16:39:16Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/mackerelio/go-osstat",
+    "Version": "v0.2.7",
+    "Time": "2026-03-09T01:34:52Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "github.com/magefile/mage",
+    "Version": "v1.17.2",
+    "Time": "2026-04-22T22:57:48Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:fyXVu1eadI8Ap1HCCNgEhJ5McIWiYhLR8uol64ZZc40=",
+    "GoModSum": "h1:Yj51kqllmsgFpvvSzgrZPK9WtluG3kUhFaBUVLo4feA="
+  },
+  {
+    "Path": "github.com/mailru/easyjson",
+    "Version": "v0.7.7",
+    "Time": "2021-02-06T19:00:08Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/makiuchi-d/gozxing",
+    "Version": "v0.1.1",
+    "Time": "2021-10-05T15:22:10Z",
+    "Indirect": true,
+    "GoVersion": "1.17",
+    "Sum": "h1:xxqijhoedi+/lZlhINteGbywIrewVdVv2wl9r5O9S1I=",
+    "GoModSum": "h1:eRIHbOjX7QWxLIDJoQuMLhuXg9LAuw6znsUtRkNw9DU="
+  },
+  {
+    "Path": "github.com/mattbaird/jsonpatch",
+    "Version": "v0.0.0-20171005235357-81af80346b1a",
+    "Time": "2017-10-05T23:53:57Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/maxbrunsfeld/counterfeiter/v6",
+    "Version": "v6.12.2",
+    "Time": "2026-03-12T14:05:55Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "github.com/mdlayher/socket",
+    "Version": "v0.5.1",
+    "Time": "2024-03-15T15:39:10Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/mdlayher/vsock",
+    "Version": "v1.2.1",
+    "Time": "2023-04-29T14:19:24Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/miekg/dns",
+    "Version": "v1.1.73",
+    "Time": "2026-08-19T05:07:32Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:uhT8nJxmTrPJYClxVxTCX+CVn6qnzSiybRk72Z6DgrE=",
+    "GoModSum": "h1:RW2Obtfd5NZHvOFe3zYG0W8koWOQtAzyHaLo8vASBuQ="
+  },
+  {
+    "Path": "github.com/moby/buildkit",
+    "Version": "v0.30.0",
+    "Time": "2026-05-13T11:39:32Z",
+    "Indirect": true,
+    "GoVersion": "1.25.5"
+  },
+  {
+    "Path": "github.com/moby/docker-image-spec",
+    "Version": "v1.3.1",
+    "Time": "2024-02-09T17:17:29Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:jMKff3w6PgbfSa69GfNg+zN/XLhfXJGnEx3Nl2EsFP0=",
+    "GoModSum": "h1:eKmb5VW8vQEh/BAr2yvVNvuiJuY6UIocYsFu/DxxRpo="
+  },
+  {
+    "Path": "github.com/moby/locker",
+    "Version": "v1.0.1",
+    "Time": "2020-09-10T19:56:44Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/moby/moby/api",
+    "Version": "v1.54.2",
+    "Time": "2026-04-20T10:34:33Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:wiat9QAhnDQjA7wk1kh/TqHz2I1uUA7M7t9SAl/JNXg=",
+    "GoModSum": "h1:+RQ6wluLwtYaTd1WnPLykIDPekkuyD/ROWQClE83pzs="
+  },
+  {
+    "Path": "github.com/moby/moby/client",
+    "Version": "v0.4.1",
+    "Time": "2026-04-20T14:44:55Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:DMQgisVoMkmMs7fp3ROSdiBnoAu8+vo3GggFl06M/wY=",
+    "GoModSum": "h1:z52C9O2POPOsnxZAy//WtKcQ32P+jT/NGeXu/7nfjGQ="
+  },
+  {
+    "Path": "github.com/moby/patternmatcher",
+    "Version": "v0.6.1",
+    "Time": "2026-03-24T17:54:42Z",
+    "Indirect": true,
+    "GoVersion": "1.19"
+  },
+  {
+    "Path": "github.com/moby/sys/capability",
+    "Version": "v0.4.0",
+    "Time": "2024-11-11T19:02:25Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/moby/sys/mountinfo",
+    "Version": "v0.7.2",
+    "Time": "2024-07-16T17:21:58Z",
+    "Indirect": true,
+    "GoVersion": "1.17"
+  },
+  {
+    "Path": "github.com/moby/sys/signal",
+    "Version": "v0.7.1",
+    "Time": "2024-07-16T17:21:58Z",
+    "Indirect": true,
+    "GoVersion": "1.17"
+  },
+  {
+    "Path": "github.com/moby/sys/userns",
+    "Version": "v0.1.0",
+    "Time": "2024-08-07T23:23:49Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/modern-go/concurrent",
+    "Version": "v0.0.0-20180306012644-bacd9c7ef1dd",
+    "Time": "2018-03-06T01:26:44Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/modern-go/reflect2",
+    "Version": "v1.0.2",
+    "Time": "2021-09-11T02:10:30Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/mohae/deepcopy",
+    "Version": "v0.0.0-20170308212314-bb9b5e7adda9",
+    "Time": "2017-03-08T21:23:14Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/morikuni/aec",
+    "Version": "v1.1.0",
+    "Time": "2025-12-11T07:08:53Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/munnerz/goautoneg",
+    "Version": "v0.0.0-20191010083416-a7dc8b61c822",
+    "Time": "2019-10-10T08:34:16Z",
+    "Indirect": true,
+    "Sum": "h1:C3w9PqII01/Oq1c1nUAm88MOHcQC9l5mIlSMApZMrHA=",
+    "GoModSum": "h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ="
+  },
+  {
+    "Path": "github.com/mwitkow/go-conntrack",
+    "Version": "v0.0.0-20190716064945-2f068394615f",
+    "Time": "2019-07-16T06:49:45Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/nats-io/nats.go",
+    "Version": "v1.52.0",
+    "Time": "2026-05-07T09:45:00Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:n3avV4VBsCgsdwh71TppsTwtv+QdPs7ntSKM8qJLGsc=",
+    "GoModSum": "h1:26HypzazeOkyO3/mqd1zZd53STJN0EjCYF9Uy2ZOBno="
+  },
+  {
+    "Path": "github.com/nats-io/nkeys",
+    "Version": "v0.4.16",
+    "Time": "2026-06-02T13:46:28Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:rd5oAuLOb8mnAycB0xleuEBNS1pVVnN0fv/FF34Eypg=",
+    "GoModSum": "h1:llLgWoI0o4z/Q57q2R1kHfmocyhGV6VG/U18Glg1Afs="
+  },
+  {
+    "Path": "github.com/nats-io/nuid",
+    "Version": "v1.0.1",
+    "Time": "2019-04-10T00:38:38Z",
+    "Indirect": true,
+    "Sum": "h1:5iA8DT8V7q8WK2EScv2padNa/rTESc1KdnPw4TC2paw=",
+    "GoModSum": "h1:19wcPz3Ph3q0Jbyiqsd0kePYG7A95tJPxeL+1OSON2c="
+  },
+  {
+    "Path": "github.com/nyaruka/phonenumbers",
+    "Version": "v1.8.0",
+    "Time": "2026-06-01T16:31:39Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "github.com/onsi/ginkgo",
+    "Version": "v1.16.5",
+    "Time": "2021-10-11T17:27:58Z",
+    "Indirect": true,
+    "GoVersion": "1.16"
+  },
+  {
+    "Path": "github.com/onsi/gomega",
+    "Version": "v1.17.0",
+    "Time": "2021-11-07T19:22:36Z",
+    "Indirect": true,
+    "GoVersion": "1.16"
+  },
+  {
+    "Path": "github.com/opencontainers/go-digest",
+    "Version": "v1.0.0",
+    "Time": "2020-05-14T01:46:00Z",
+    "Indirect": true,
+    "GoVersion": "1.13",
+    "Sum": "h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=",
+    "GoModSum": "h1:0JzlMkj0TRzQZfJkVvzbP0HBR3IKzErnv2BNG4W4MAM="
+  },
+  {
+    "Path": "github.com/opencontainers/image-spec",
+    "Version": "v1.1.1",
+    "Time": "2025-02-24T17:26:57Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:y0fUlFfIZhPF1W537XOLg0/fcx6zcHCJwooC2xJA040=",
+    "GoModSum": "h1:qpqAh3Dmcf36wStyyWU+kCeDgrGnAve2nCC8+7h8Q0M="
+  },
+  {
+    "Path": "github.com/opencontainers/runtime-spec",
+    "Version": "v1.2.1",
+    "Time": "2025-02-25T22:46:15Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/openlibrecommunity/olcrtc",
+    "Version": "v0.0.0",
+    "Replace": {
+      "Path": "../olcrtc",
+      "GoVersion": "1.26.3"
+    },
+    "GoVersion": "1.26.3"
+  },
+  {
+    "Path": "github.com/ory/dockertest/v4",
+    "Version": "v4.0.0",
+    "Time": "2026-04-10T11:05:51Z",
+    "Indirect": true,
+    "GoVersion": "1.25.5",
+    "Sum": "h1:i19aFsO/VXE0VrMk4ifnKW4G/KIJ93PCjLOslxXoPME=",
+    "GoModSum": "h1:b5Ofu8VIxWNhXFvQcLu17pRNQdoUBKtXBW74G4Ygzx8="
+  },
+  {
+    "Path": "github.com/owenewans/owenlivekit/v2",
+    "Version": "v2.18.2",
+    "Time": "2026-08-18T14:40:12Z",
+    "Indirect": true,
+    "GoVersion": "1.26",
+    "Sum": "h1:O9dehD2jv4PY5XftUOESAQxQi/nnRFRpJ0sMLuvVHms=",
+    "GoModSum": "h1:ZLiVy3/XevpcF6NJcll3RcHjhAcquBBq+428/qofEi4="
+  },
+  {
+    "Path": "github.com/p1neappleXpress/OpenFlux",
+    "Version": "v0.0.0",
+    "Replace": {
+      "Path": "../OpenFlux",
+      "GoVersion": "1.26.6"
+    },
+    "GoVersion": "1.26.6"
+  },
+  {
+    "Path": "github.com/pelletier/go-toml",
+    "Version": "v1.9.5",
+    "Time": "2022-01-05T14:17:32Z",
+    "Indirect": true,
+    "GoVersion": "1.12",
+    "Sum": "h1:4yBQzkHv+7BHq2PQUZF3Mx0IYxG7LsP222s7Agd3ve8=",
+    "GoModSum": "h1:u1nR/EPcESfeI/szUZKdtJ0xRNbUoANCkoOuaOx1Y+c="
+  },
+  {
+    "Path": "github.com/pierrec/lz4/v4",
+    "Version": "v4.1.27",
+    "Time": "2026-05-31T08:22:42Z",
+    "Indirect": true,
+    "GoVersion": "1.17",
+    "Sum": "h1:+PhzhWDrjRj89TH2sw43nE3+4+W8lSxIuQadEHZyjUk=",
+    "GoModSum": "h1:EoQMVJgeeEOMsCqCzqFm2O0cJvljX2nGZjcRIPL34O4="
+  },
+  {
+    "Path": "github.com/pion/datachannel",
+    "Version": "v1.6.3",
+    "Replace": {
+      "Path": "github.com/pion/datachannel",
+      "Version": "v1.6.2",
+      "Time": "2026-06-19T17:49:00Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:7EXQ8TH3vTouBUdRWYbcX2edSx9Yj6k5zl5P+qyxEPc=",
+      "GoModSum": "h1:pzbdAZvyGtXbcHM1hBbsFaOTf40lZizU/dNlvVOak6E="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/dtls/v3",
+    "Version": "v3.1.9",
+    "Replace": {
+      "Path": "github.com/pion/dtls/v3",
+      "Version": "v3.1.8",
+      "Time": "2026-08-29T08:39:02Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:aLcgjZqzrYn5AbjSds4LvK2WI5VzJc1PencExyDjYis=",
+      "GoModSum": "h1:gz1K4jg6c+fq86oQMH4pilpCEOEPwmEr2jY+VcF/mkU="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/ice/v4",
+    "Version": "v4.4.4",
+    "Replace": {
+      "Path": "github.com/pion/ice/v4",
+      "Version": "v4.4.2",
+      "Time": "2026-09-03T16:47:52Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:asS17nbHJrzlVQl8fiSJaipxrxSY3Dq6DWgmB+0VwpI=",
+      "GoModSum": "h1:YZgNFOyJWXpLpLj0mb4ccqNAWRo9C2RtqKwuVTEz0Sc="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/interceptor",
+    "Version": "v0.1.49",
+    "Replace": {
+      "Path": "github.com/pion/interceptor",
+      "Version": "v0.1.48",
+      "Time": "2026-09-04T01:03:04Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:FF4gZ6Yh+N75gKMYpC7rYR8DdkiMBFtA7V2OBUKo7XQ=",
+      "GoModSum": "h1:5mg/N5xXMAa4codCUdrJYY9I1y4tVQhlpd7rfwAJpvI="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/logging",
+    "Version": "v0.2.4",
+    "Time": "2025-06-22T20:07:28Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:tTew+7cmQ+Mc1pTBLKH2puKsOvhm32dROumOZ655zB8=",
+    "GoModSum": "h1:DffhXTKYdNZU+KtJ5pyQDjvOAh/GsNSyv1lbkFbe3so="
+  },
+  {
+    "Path": "github.com/pion/mdns/v2",
+    "Version": "v2.2.1",
+    "Replace": {
+      "Path": "github.com/pion/mdns/v2",
+      "Version": "v2.2.0",
+      "Time": "2026-09-01T01:49:00Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:AlAZ9MTUKtWgO+4itk35JdNak4sk5k7G/X4xnIBWHyA=",
+      "GoModSum": "h1:IJddx58QMlojqhQYjHcOUmvuBQ5MnLNetkb80VMvk2Y="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/randutil",
+    "Version": "v0.1.0",
+    "Time": "2020-07-13T14:37:39Z",
+    "Indirect": true,
+    "GoVersion": "1.14",
+    "Sum": "h1:CFG1UdESneORglEsnimhUjf33Rwjubwj6xfiOXBa3mA=",
+    "GoModSum": "h1:XcJrSMMbbMRhASFVOlj/5hQial/Y8oH/HVo7TBZq+j8="
+  },
+  {
+    "Path": "github.com/pion/rtcp",
+    "Version": "v1.2.18",
+    "Replace": {
+      "Path": "github.com/pion/rtcp",
+      "Version": "v1.2.17",
+      "Time": "2026-06-30T06:21:17Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:PxiT6L79yPZKtXIsXdG1eakBl6dtBj4x+4oVEL0DlSw=",
+      "GoModSum": "h1:7kBpuBJaWwax4hzc/pgexY8vkOpvh8atgYDbaKZq0iU="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/rtp",
+    "Version": "v1.10.5",
+    "Time": "2026-07-22T14:09:45Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:ip0HhO/wYZqQ4bKS+R99KnZh/GRCmIT0jDXikub7vlE=",
+    "GoModSum": "h1:Au8fc6cEByy8RLTwKTQTEeQqDB/SJDxwL4mZuxYA5Pk="
+  },
+  {
+    "Path": "github.com/pion/sctp",
+    "Version": "v1.11.3",
+    "Replace": {
+      "Path": "github.com/pion/sctp",
+      "Version": "v1.11.1",
+      "Time": "2026-07-27T02:49:17Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:O4dIFyURw1KTST7w+gtD4gLeYXkhPa0xXLHMMoe/OSA=",
+      "GoModSum": "h1:7KFmTwLcoYgJs/Z+99nJvsWL0qDpuyloSI0RbAqlrz0="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/sdp/v3",
+    "Version": "v3.0.20",
+    "Replace": {
+      "Path": "github.com/pion/sdp/v3",
+      "Version": "v3.0.19",
+      "Time": "2026-06-19T21:23:04Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:1VMKs3gIkTQV5M3hNKfTAPrDXSNrYtOlmOD8+mSZUGQ=",
+      "GoModSum": "h1:dE5WOSlzXrtiE/iuZqe9n+AcEbOjtAd3k5m5NtlV/qU="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/srtp/v3",
+    "Version": "v3.1.0",
+    "Replace": {
+      "Path": "github.com/pion/srtp/v3",
+      "Version": "v3.0.13",
+      "Time": "2026-08-04T00:19:34Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:FmQaqgNbN1vUtMhEsmj8trldc3lNZr1xmN7nl8CyX+Q=",
+      "GoModSum": "h1:7qR3L69t8RX0EPVQwGNwCa1Gy9keKKNDpWwQzZbeXDY="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/stun/v3",
+    "Version": "v3.1.7",
+    "Time": "2026-08-18T13:44:31Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:uRXMTlGLf89WgItGNyZ6aR5jMTX0NBbybXADpQCzn+E=",
+    "GoModSum": "h1:Nq77RW4aRrSNrltf2ksUJLjxWeipj4lnlgdsYIxC8g8="
+  },
+  {
+    "Path": "github.com/pion/stun/v4",
+    "Version": "v4.0.1",
+    "Replace": {
+      "Path": "github.com/pion/stun/v4",
+      "Version": "v4.0.0",
+      "Time": "2026-09-02T15:38:44Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:UuQy2q6iZR4EnMl/+G8kAtaWhf7jx/u8ZyN9oD4+YEQ=",
+      "GoModSum": "h1:JAojPsPtDH4iPeNQb7kvxBdzypmkWAROxy0coApKH2E="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/transport/v4",
+    "Version": "v4.1.0",
+    "Replace": {
+      "Path": "github.com/pion/transport/v4",
+      "Version": "v4.1.0",
+      "Time": "2026-08-03T20:15:03Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:8S+nF2reM2cJuqC6g78OVy2BBgmbdns+acx3jA97BvQ=",
+      "GoModSum": "h1:06hFI+jCFcok2X2MekVufNZ/uzNZXivGBPfviSVcjgM="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/transport/v5",
+    "Version": "v5.1.1",
+    "Time": "2026-09-23T14:55:53Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/turn/v5",
+    "Version": "v5.1.2",
+    "Replace": {
+      "Path": "github.com/pion/turn/v5",
+      "Version": "v5.1.0",
+      "Time": "2026-09-03T16:01:05Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:OSzLub7q4GssG1P4BEVrz39MnnJlxLy1LOvEkP9f46o=",
+      "GoModSum": "h1:6HJQO7UAe7pEPMrTtBrmj+tTfp+Ai8KAV2+GXHFi1nQ="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pion/webrtc/v4",
+    "Version": "v4.2.22",
+    "Replace": {
+      "Path": "github.com/pion/webrtc/v4",
+      "Version": "v4.2.20",
+      "Time": "2026-09-04T01:52:43Z",
+      "GoVersion": "1.24.0",
+      "Sum": "h1:NYiNhBTFArA8aoP18a30y4LN0dyqSrF65HxU7KnhNOo=",
+      "GoModSum": "h1:aLGXbekuN0tHOu7IPX1o9Y/uN29Ovfjaaz4bL2P9ND8="
+    },
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/pires/go-proxyproto",
+    "Version": "v0.15.0",
+    "Time": "2026-07-09T10:32:47Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:dTshmNbFm/D+0+sbrxUuddPOZ5Y0B7c5NhtsBkm6LqI=",
+    "GoModSum": "h1:OXsCrKwrK2tXS9YrI5tkHx5xaQlO8FH3lFW76orFh24="
+  },
+  {
+    "Path": "github.com/pkg/errors",
+    "Version": "v0.9.1",
+    "Time": "2020-01-14T19:47:44Z",
+    "Indirect": true,
+    "Sum": "h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=",
+    "GoModSum": "h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0="
+  },
+  {
+    "Path": "github.com/planetscale/vtprotobuf",
+    "Version": "v0.6.1-0.20240319094008-0393e58bdf10",
+    "Time": "2024-03-19T09:40:08Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "github.com/pmezard/go-difflib",
+    "Version": "v1.0.1-0.20181226105442-5d4384ee4fb2",
+    "Time": "2018-12-26T10:54:42Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/prometheus/client_golang",
+    "Version": "v1.23.2",
+    "Time": "2025-09-05T14:03:59Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0",
+    "Sum": "h1:Je96obch5RDVy3FDMndoUsjAhG5Edi49h0RJWRi/o0o=",
+    "GoModSum": "h1:Tb1a6LWHB3/SPIzCoaDXI4I8UHKeFTEQ1YCr+0Gyqmg="
+  },
+  {
+    "Path": "github.com/prometheus/client_model",
+    "Version": "v0.6.2",
+    "Time": "2025-04-11T05:38:16Z",
+    "Indirect": true,
+    "GoVersion": "1.22.0",
+    "Sum": "h1:oBsgwpGs7iVziMvrGhE53c/GrLUsZdHnqNwqPLxwZyk=",
+    "GoModSum": "h1:y3m2F6Gdpfy6Ut/GBsUqTWZqCUvMVzSfMLjcu6wAwpE="
+  },
+  {
+    "Path": "github.com/prometheus/common",
+    "Version": "v0.68.1",
+    "Time": "2026-06-03T07:02:51Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:omjRRl4QP4komogpXuhfeOiisQg7xdy8VM1UY+pStaY=",
+    "GoModSum": "h1:ZzL3f6u94qUxh9p+tJTrF+FvBS1XXbbRAZCQkytAL0Y="
+  },
+  {
+    "Path": "github.com/prometheus/procfs",
+    "Version": "v0.20.1",
+    "Time": "2026-02-28T15:22:44Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:XwbrGOIplXW/AU3YhIhLODXMJYyC1isLFfYCsTEycfc=",
+    "GoModSum": "h1:o9EMBZGRyvDrSPH1RqdxhojkuXstoe4UlK79eF5TGGo="
+  },
+  {
+    "Path": "github.com/puzpuzpuz/xsync/v4",
+    "Version": "v4.5.0",
+    "Time": "2026-04-12T16:59:34Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:vOSWu6b57/emh+L/Cw0BeQfvxa/cogFywXHeGUxQxAg=",
+    "GoModSum": "h1:VJDmTCJMBt8igNxnkQd86r+8KUeN1quSfNKu5bLYFQo="
+  },
+  {
+    "Path": "github.com/quic-go/go-ossfuzz-seeds",
+    "Version": "v0.1.0",
+    "Time": "2026-05-03T10:42:53Z",
+    "Indirect": true,
+    "GoVersion": "1.25",
+    "Sum": "h1:APacT+iIaNF6fd8AGEiN3bT/Jtkd2jz4v4TzM7MFjy0=",
+    "GoModSum": "h1:3IOHRbJIc+L6YKMwfDtJAM9Vj9k0YY4muhuyUYk5tbk="
+  },
+  {
+    "Path": "github.com/quic-go/qpack",
+    "Version": "v0.6.0",
+    "Time": "2025-11-17T02:04:08Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:g7W+BMYynC1LbYLSqRt8PBg5Tgwxn214ZZR34VIOjz8=",
+    "GoModSum": "h1:lUpLKChi8njB4ty2bFLX2x4gzDqXwUpaO1DP9qMDZII="
+  },
+  {
+    "Path": "github.com/redis/go-redis/v9",
+    "Version": "v9.20.0",
+    "Time": "2026-05-28T07:31:45Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:WnQYxLkgO2xiXTCJY0ldIiI8dNqCDlQAG+AtaH7a2a0=",
+    "GoModSum": "h1:v/M13XI1PVCDcm01VtPFOADfZtHf8YW3baQf57KlIkA="
+  },
+  {
+    "Path": "github.com/refraction-networking/utls",
+    "Version": "v1.8.3-0.20260301010127-aa6edf4b11af",
+    "Time": "2026-03-01T01:01:27Z",
+    "Indirect": true,
+    "GoVersion": "1.24",
+    "Sum": "h1:er2acxbi3N1nvEq6HXHUAR1nTWEJmQfqiGR8EVT9rfs=",
+    "GoModSum": "h1:jkSOEkLqn+S/jtpEHPOsVv/4V4EVnelwbMQl4vCWXAM="
+  },
+  {
+    "Path": "github.com/robfig/cron/v3",
+    "Version": "v3.0.1",
+    "Time": "2020-01-04T01:05:08Z",
+    "Indirect": true,
+    "GoVersion": "1.12",
+    "Sum": "h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=",
+    "GoModSum": "h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro="
+  },
+  {
+    "Path": "github.com/rodaine/protogofakeit",
+    "Version": "v0.1.1",
+    "Time": "2024-04-25T16:04:38Z",
+    "Indirect": true,
+    "GoVersion": "1.21",
+    "Sum": "h1:ZKouljuRM3A+TArppfBqnH8tGZHOwM/pjvtXe9DaXH8=",
+    "GoModSum": "h1:pXn/AstBYMaSfc1/RqH3N82pBuxtWgejz1AlYpY1mI0="
+  },
+  {
+    "Path": "github.com/rogpeppe/go-internal",
+    "Version": "v1.15.0",
+    "Time": "2026-04-17T09:53:34Z",
+    "Indirect": true,
+    "GoVersion": "1.25",
+    "Sum": "h1:D0RCU5rMAp+SpgkiNdrjfJ+LX4J1M32V2NeCY7EJ6hc=",
+    "GoModSum": "h1:DrUVZyrJU+txYW5/1kwtXQSMFio52ZOxX7yM1VHvnxs="
+  },
+  {
+    "Path": "github.com/sclevine/agouti",
+    "Version": "v3.0.0+incompatible",
+    "Time": "2018-03-04T02:55:30Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/secure-systems-lab/go-securesystemslib",
+    "Version": "v0.10.0",
+    "Time": "2026-01-06T15:36:12Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/shibumi/go-pathspec",
+    "Version": "v1.3.0",
+    "Time": "2021-10-17T22:38:10Z",
+    "Indirect": true,
+    "GoVersion": "1.17"
+  },
+  {
+    "Path": "github.com/shoenig/test",
+    "Version": "v1.7.0",
+    "Time": "2023-11-05T14:23:18Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:eWcHtTXa6QLnBvm0jgEabMRN/uJ4DMV3M8xUGgRkZmk=",
+    "GoModSum": "h1:UxJ6u/x2v/TNs/LoLxBNJRV9DiwBBKYxXSyczsBHFoI="
+  },
+  {
+    "Path": "github.com/sirupsen/logrus",
+    "Version": "v1.9.4",
+    "Time": "2025-10-23T12:47:52Z",
+    "Indirect": true,
+    "GoVersion": "1.17"
+  },
+  {
+    "Path": "github.com/skip2/go-qrcode",
+    "Version": "v0.0.0-20200617195104-da1b6568686e",
+    "Time": "2020-06-17T19:51:04Z",
+    "Indirect": true,
+    "GoVersion": "1.13",
+    "Sum": "h1:MRM5ITcdelLK2j1vwZ3Je0FKVCfqOLp5zO6trqMLYs0=",
+    "GoModSum": "h1:XV66xRDqSt+GTGFMVlhk3ULuV0y9ZmzeVGR4mloJI3M="
+  },
+  {
+    "Path": "github.com/spiffe/go-spiffe/v2",
+    "Version": "v2.8.1",
+    "Time": "2026-06-19T13:39:21Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "github.com/stoewer/go-strcase",
+    "Version": "v1.3.0",
+    "Time": "2023-03-27T23:57:07Z",
+    "Indirect": true,
+    "GoVersion": "1.11"
+  },
+  {
+    "Path": "github.com/stretchr/testify",
+    "Version": "v1.12.1",
+    "Time": "2026-08-17T08:24:05Z",
+    "Indirect": true,
+    "GoVersion": "1.17",
+    "Sum": "h1:EuwCh5fleGS7H32xRwO3wRGT7DxrDhLAT6FF8MpWDWE=",
+    "GoModSum": "h1:MDEgiDPPsNp5cuIrHPPCyornHKgEVbtFUmoNlxoYthg="
+  },
+  {
+    "Path": "github.com/timandy/routine",
+    "Version": "v1.1.6",
+    "Time": "2025-08-18T02:52:05Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/tjfoc/gmsm",
+    "Version": "v1.4.1",
+    "Time": "2021-07-09T03:07:47Z",
+    "Indirect": true,
+    "GoVersion": "1.14",
+    "Sum": "h1:aMe1GlZb+0bLjn+cKTPEvvn9oUEBlJitaZiiBwsbgho=",
+    "GoModSum": "h1:j4INPkHWMrhJb38G+J6W4Tw0AbuN8Thu3PbdVYhVcTE="
+  },
+  {
+    "Path": "github.com/tonistiigi/fsutil",
+    "Version": "v0.0.0-20251211185533-a2aa163d723f",
+    "Time": "2025-12-11T18:55:33Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "github.com/tonistiigi/go-csvvalue",
+    "Version": "v0.0.0-20240814133006-030d3b2625d0",
+    "Time": "2024-08-14T13:30:06Z",
+    "Indirect": true,
+    "GoVersion": "1.16"
+  },
+  {
+    "Path": "github.com/tonistiigi/units",
+    "Version": "v0.0.0-20180711220420-6950e57a87ea",
+    "Time": "2018-07-11T22:04:20Z",
+    "Indirect": true
+  },
+  {
+    "Path": "github.com/tonistiigi/vt100",
+    "Version": "v0.0.0-20240514184818-90bafcd6abab",
+    "Time": "2024-05-14T18:48:18Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  },
+  {
+    "Path": "github.com/twitchtv/twirp",
+    "Version": "v8.1.3+incompatible",
+    "Time": "2022-10-24T17:08:25Z",
+    "Indirect": true,
+    "Sum": "h1:+F4TdErPgSUbMZMwp13Q/KgDVuI7HJXP61mNV3/7iuU=",
+    "GoModSum": "h1:RRJoFSAmTEh2weEqWtpPE3vFK5YBhA6bqp2l1kfCC5A="
+  },
+  {
+    "Path": "github.com/vishvananda/netlink",
+    "Version": "v1.3.1",
+    "Time": "2025-05-09T18:59:25Z",
+    "Indirect": true,
+    "GoVersion": "1.12",
+    "Sum": "h1:3AEMt62VKqz90r0tmNhog0r/PpWKmrEShJU0wJW6bV0=",
+    "GoModSum": "h1:ARtKouGSTGchR8aMwmkzC0qiNPrrWO5JS/XMVl45+b4="
+  },
+  {
+    "Path": "github.com/vishvananda/netns",
+    "Version": "v0.0.5",
+    "Time": "2024-08-13T19:31:45Z",
+    "Indirect": true,
+    "GoVersion": "1.17",
+    "Sum": "h1:DfiHV+j8bA32MFM7bfEunvT8IAqQ/NzSJHtcmW5zdEY=",
+    "GoModSum": "h1:SpkAiCQRtJ6TvvxPnOSyH3BMl6unz3xZlaprSwhNNJM="
+  },
+  {
+    "Path": "github.com/wlynxg/anet",
+    "Version": "v0.0.5",
+    "Time": "2024-10-04T14:22:25Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:J3VJGi1gvo0JwZ/P1/Yc/8p63SoW98B5dHkYDmpgvvU=",
+    "GoModSum": "h1:eay5PRQr7fIVAMbTbchTnO9gG65Hg/uYGdc7mguHxoA="
+  },
+  {
+    "Path": "github.com/x448/float16",
+    "Version": "v0.8.4",
+    "Time": "2020-01-17T18:31:28Z",
+    "Indirect": true,
+    "GoVersion": "1.11"
+  },
+  {
+    "Path": "github.com/xhit/go-str2duration/v2",
+    "Version": "v2.1.0",
+    "Time": "2022-12-07T00:32:32Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "github.com/xjasonlyu/windivert-go",
+    "Version": "v0.0.0-20201010013527-4239d0afa76f",
+    "Time": "2020-10-10T01:35:27Z",
+    "Indirect": true,
+    "GoVersion": "1.15",
+    "Sum": "h1:glX3VZCYwW1/OmFxOjazfCtBLxXB3YNZk9LF2lYx+Lw=",
+    "GoModSum": "h1:gh//RKyt2Gesx3eOj3ulzrSQ60ySj2UA4qnOdrtarvg="
+  },
+  {
+    "Path": "github.com/xtaci/kcp-go/v5",
+    "Version": "v5.6.72",
+    "Time": "2026-03-27T06:18:14Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:FLaQPalgpufJYQRk0OK+gErEhXGLUPjv6FSRPrFR8Lk=",
+    "GoModSum": "h1:9O3D8WR+cyyUjGiTILYfg17vn72otWuXK2AFfqIe6CM="
+  },
+  {
+    "Path": "github.com/xtaci/lossyconn",
+    "Version": "v0.0.0-20190602105132-8df528c0c9ae",
+    "Time": "2019-06-02T10:51:32Z",
+    "Indirect": true,
+    "Sum": "h1:J0GxkO96kL4WF+AIT3M4mfUVinOCPgf2uUWYFUzN0sM=",
+    "GoModSum": "h1:gXtu8J62kEgmN++bm9BVICuT/e8yiLI2KFobd/TRFsE="
+  },
+  {
+    "Path": "github.com/xtaci/smux",
+    "Version": "v1.5.57",
+    "Time": "2026-03-13T09:21:53Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:N72VbGoSYxgcm6mPOYX0QzEZNVD3UI/JlVvAtXF+WrY=",
+    "GoModSum": "h1:IGQ9QYrBphmb/4aTnLEcJby0TNr3NV+OslIOMrX825Q="
+  },
+  {
+    "Path": "github.com/xtls/reality",
+    "Version": "v0.0.0-20260908062103-8cdf7bf9c7f0",
+    "Time": "2026-09-08T06:21:03Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:rb+fKQFhz+5I2PPuQsNYxI5mUU840XWYtRF0ZBjvkws=",
+    "GoModSum": "h1:DsJblcWDGt76+FVqBVwbwRhxyyNJsGV48gJLch0OOWI="
+  },
+  {
+    "Path": "github.com/xtls/xray-core",
+    "Version": "v1.260327.1-0.20261010092107-701af60772cd",
+    "Time": "2026-10-10T09:21:07Z",
+    "GoVersion": "1.27",
+    "Sum": "h1:Am/9Pzw5PZr7+hMN1Vs5faeSXRoutnrwMAgtUDnh/J8=",
+    "GoModSum": "h1:YAACF9L/Pu1GznixHOBtrBqVcE95nhFjgU+gIEdWKlo="
+  },
+  {
+    "Path": "github.com/xyproto/randomstring",
+    "Version": "v1.0.5",
+    "Time": "2023-02-06T10:49:41Z",
+    "Indirect": true,
+    "GoVersion": "1.17",
+    "Sum": "h1:YtlWPoRdgMu3NZtP45drfy1GKoojuR7hmRcnhZqKjWU=",
+    "GoModSum": "h1:rgmS5DeNXLivK7YprL0pY+lTuhNQW3iGxZ18UQApw/E="
+  },
+  {
+    "Path": "github.com/yuin/goldmark",
+    "Version": "v1.4.13",
+    "Time": "2022-07-09T07:22:17Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "github.com/yuin/gopher-lua",
+    "Version": "v1.1.2",
+    "Time": "2026-04-01T00:48:02Z",
+    "Indirect": true,
+    "GoVersion": "1.23",
+    "Sum": "h1:yF/FjE3hD65tBbt0VXLE13HWS9h34fdzJmrWRXwobGA=",
+    "GoModSum": "h1:7aRmXIWl37SqRf0koeyylBEzJ+aPt8A+mmkQ4f1ntR8="
+  },
+  {
+    "Path": "github.com/zarazaex69/gr",
+    "Version": "v0.0.1",
+    "Time": "2026-05-28T13:55:30Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:B2WiCmgpGolnzsO2ItBRG8JjkYY4pZbyhXyF4ZebNU0=",
+    "GoModSum": "h1:hAk5j/s2QFlvr3bJkjPwakZENsMBx6VOUN1GwYzYoRw="
+  },
+  {
+    "Path": "github.com/zarazaex69/j",
+    "Version": "v0.0.1",
+    "Time": "2026-08-11T11:03:03Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:a39NFrw6fipURi0qHh3axZIynVJTVT8NO0we8CUCMqE=",
+    "GoModSum": "h1:7/ypJTenOIPx23fpo5uF7l4u+rxZqg9cFbTL/N77Ktc="
+  },
+  {
+    "Path": "github.com/zeebo/assert",
+    "Version": "v1.3.0",
+    "Time": "2021-01-22T19:48:59Z",
+    "Indirect": true,
+    "GoVersion": "1.13",
+    "Sum": "h1:g7C04CbJuIDKNPFHmsk4hwZDO5O+kntRxzaUoNXj+IQ=",
+    "GoModSum": "h1:Pq9JiuJQpG8JLJdtkwrJESF0Foym2/D9XMU5ciN/wJ0="
+  },
+  {
+    "Path": "github.com/zeebo/xxh3",
+    "Version": "v1.1.0",
+    "Time": "2026-01-23T19:18:08Z",
+    "Indirect": true,
+    "GoVersion": "1.22",
+    "Sum": "h1:s7DLGDK45Dyfg7++yxI0khrfwq9661w9EN78eP/UZVs=",
+    "GoModSum": "h1:IisAie1LELR4xhVinxWS5+zf1lA4p0MW4T+w+W07F5s="
+  },
+  {
+    "Path": "go.opencensus.io",
+    "Version": "v0.24.0",
+    "Time": "2022-11-03T20:13:50Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "go.opentelemetry.io/auto/sdk",
+    "Version": "v1.2.1",
+    "Time": "2025-09-15T16:53:44Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:jXsnJ4Lmnqd11kwkBV2LgLoFMZKizbCi5fNZ/ipaZ64=",
+    "GoModSum": "h1:KRTj+aOaElaLi+wW1kO/DZRXwkF4C5xPbEe3ZiIhN7Y="
+  },
+  {
+    "Path": "go.opentelemetry.io/contrib/detectors/gcp",
+    "Version": "v1.44.0",
+    "Time": "2026-05-28T05:28:14Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc",
+    "Version": "v0.68.0",
+    "Time": "2026-04-07T08:53:54Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace",
+    "Version": "v0.68.0",
+    "Time": "2026-04-07T08:53:54Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp",
+    "Version": "v0.69.0",
+    "Time": "2026-05-28T05:28:14Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:8tvICD4vSTOOsNrsI4Ljf6C+6UKvpTEH5XY3JMoyPoo=",
+    "GoModSum": "h1:z9+yiacE0IHRqM4qFfkbt/JYlmYXgss8GY/jXoNuPJI="
+  },
+  {
+    "Path": "go.opentelemetry.io/otel",
+    "Version": "v1.44.0",
+    "Time": "2026-05-27T16:42:37Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:JjwHmHpA4iZ3wBxluu2fbbE7j4kqlE8jXyAyPXH7HqU=",
+    "GoModSum": "h1:BMgjTHL9WPRlRjL2oZCBTL4whCGtXch2H4BhOPIAyYc="
+  },
+  {
+    "Path": "go.opentelemetry.io/otel/exporters/otlp/otlptrace",
+    "Version": "v1.44.0",
+    "Time": "2026-05-27T16:42:37Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp",
+    "Version": "v1.44.0",
+    "Time": "2026-05-27T16:42:37Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "go.opentelemetry.io/otel/metric",
+    "Version": "v1.44.0",
+    "Time": "2026-05-27T16:42:37Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:1w0gILTcHdr3YI+ixLyjemwrVnsMURbTZFrSYCdDdmc=",
+    "GoModSum": "h1:8O7hanEPBNgEMmybD3s2VBKcgWOCsA6tzHBPODAiquo="
+  },
+  {
+    "Path": "go.opentelemetry.io/otel/sdk",
+    "Version": "v1.44.0",
+    "Time": "2026-05-27T16:42:37Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "go.opentelemetry.io/otel/sdk/metric",
+    "Version": "v1.44.0",
+    "Time": "2026-05-27T16:42:37Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "go.opentelemetry.io/otel/trace",
+    "Version": "v1.44.0",
+    "Time": "2026-05-27T16:42:37Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:jxF5CsGYCe74MCRx2X4g7WsY/VBKRqqpNvXlX/6gtIk=",
+    "GoModSum": "h1:oLl1jrMQAVo6v3GAggN+1VH9VIz9iUSvW53sW1Q8PIE="
+  },
+  {
+    "Path": "go.opentelemetry.io/proto/otlp",
+    "Version": "v1.10.0",
+    "Time": "2026-03-09T19:21:30Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0"
+  },
+  {
+    "Path": "go.uber.org/atomic",
+    "Version": "v1.11.0",
+    "Time": "2023-05-03T17:25:03Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:ZvwS0R+56ePWxUNi+Atn9dWONBPp/AUETXlHW0DxSjE=",
+    "GoModSum": "h1:LUxbIzbOniOlMKjJjyPfpl4v+PKK2cNJn91OQbhoJI0="
+  },
+  {
+    "Path": "go.uber.org/goleak",
+    "Version": "v1.3.0",
+    "Time": "2023-10-24T16:28:03Z",
+    "Indirect": true,
+    "GoVersion": "1.20",
+    "Sum": "h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=",
+    "GoModSum": "h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE="
+  },
+  {
+    "Path": "go.uber.org/mock",
+    "Version": "v0.6.0",
+    "Time": "2025-08-18T14:58:04Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0",
+    "Sum": "h1:hyF9dfmbgIX5EfOdasqLsWD6xqpNZlXblLB/Dbnwv3Y=",
+    "GoModSum": "h1:KiVJ4BqZJaMj4svdfmHM0AUx4NJYO8ZNpPnZn1Z+BBU="
+  },
+  {
+    "Path": "go.uber.org/multierr",
+    "Version": "v1.11.0",
+    "Time": "2023-03-29T23:00:37Z",
+    "Indirect": true,
+    "GoVersion": "1.19",
+    "Sum": "h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=",
+    "GoModSum": "h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y="
+  },
+  {
+    "Path": "go.uber.org/zap",
+    "Version": "v1.28.0",
+    "Time": "2026-04-28T02:13:09Z",
+    "Indirect": true,
+    "GoVersion": "1.19",
+    "Sum": "h1:IZzaP1Fv73/T/pBMLk4VutPl36uNC+OSUh3JLG3FIjo=",
+    "GoModSum": "h1:rDLpOi171uODNm/mxFcuYWxDsqWSAVkFdX4XojSKg/Q="
+  },
+  {
+    "Path": "go.uber.org/zap/exp",
+    "Version": "v0.3.0",
+    "Time": "2024-10-22T15:46:07Z",
+    "Indirect": true,
+    "GoVersion": "1.19",
+    "Sum": "h1:6JYzdifzYkGmTdRR59oYH+Ng7k49H9qVpWwNSsGJj3U=",
+    "GoModSum": "h1:5I384qq7XGxYyByIhHm6jg5CHkGY0nsTfbDLgDDlgJQ="
+  },
+  {
+    "Path": "go.yaml.in/yaml/v2",
+    "Version": "v2.4.4",
+    "Time": "2026-03-06T22:01:45Z",
+    "Indirect": true,
+    "GoVersion": "1.15",
+    "Sum": "h1:tuyd0P+2Ont/d6e2rl3be67goVK4R6deVxCUX5vyPaQ=",
+    "GoModSum": "h1:gMZqIpDtDqOfM0uNfy0SkpRhvUryYH0Z6wdMYcacYXQ="
+  },
+  {
+    "Path": "go.yaml.in/yaml/v3",
+    "Version": "v3.0.5",
+    "Time": "2026-07-26T14:51:55Z",
+    "Indirect": true,
+    "GoVersion": "1.16",
+    "Sum": "h1:N6y/pJk8buWs9NY5ERU2HSMfm+IuD/OtfdAnq6kESPw=",
+    "GoModSum": "h1:HVTZu1O7/Vkt2N+BFy8Zza+lnLsABggaTM2ZpNIGuKg="
+  },
+  {
+    "Path": "go4.org/netipx",
+    "Version": "v0.0.0-20231129151722-fdeea329fbba",
+    "Time": "2023-11-29T15:17:22Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:0b9z3AuHCjxk0x/opv64kcgZLBseWJUpBw5I82+2U4M=",
+    "GoModSum": "h1:PLyyIXexvUFg3Owu6p/WfdlivPbZJsZdgWZlrGope/Y="
+  },
+  {
+    "Path": "golang.org/x/crypto",
+    "Version": "v0.57.0",
+    "Time": "2026-09-08T18:05:01Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:3ZVCjf8Ggz7zneR/EHRVx68Ctf+2pmIMP2UFhh9cC6M=",
+    "GoModSum": "h1:Fdz0i5U6CoizGwLda9DttjSk6qlZo25zYNtR+ycvuZA="
+  },
+  {
+    "Path": "golang.org/x/crypto/x509roots/fallback",
+    "Version": "v0.0.0-20261005185213-c3db4df58582",
+    "Time": "2026-10-05T18:52:13Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:wjDBrGbfLuifgrVLFEWUBJYAfh5Q1wkMc5t0FY0tCbs=",
+    "GoModSum": "h1:HPze8vhfG6fO06AM+VSvxRm4E3+5Yk375mgrJ5M2z1E="
+  },
+  {
+    "Path": "golang.org/x/exp",
+    "Version": "v0.0.0-20260603202125-055de637280b",
+    "Time": "2026-06-03T20:21:25Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:v1uXiEBHo8QA0LiGCo7UgHMzHT4Kdfpl2zmtH5vaP1Q=",
+    "GoModSum": "h1:d2fgXJLVs4dYDHUk5lwMIfzRzSrWCfGZb0ZqeLa/Vcw="
+  },
+  {
+    "Path": "golang.org/x/exp/shiny",
+    "Version": "v0.0.0-20260824195058-e88cd73687aa",
+    "Time": "2026-08-24T19:50:58Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0"
+  },
+  {
+    "Path": "golang.org/x/exp/typeparams",
+    "Version": "v0.0.0-20221208152030-732eee02a75a",
+    "Time": "2022-12-08T15:20:30Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "golang.org/x/image",
+    "Version": "v0.46.0",
+    "Time": "2026-09-08T18:04:13Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0"
+  },
+  {
+    "Path": "golang.org/x/lint",
+    "Version": "v0.0.0-20200302205851-738671d3881b",
+    "Time": "2020-03-02T20:58:51Z",
+    "Indirect": true,
+    "GoVersion": "1.11",
+    "GoModSum": "h1:3xt1FjdF8hUf6vQPIChWIBhFzV8gjjsPE/fR3IyQdNY="
+  },
+  {
+    "Path": "golang.org/x/mobile",
+    "Version": "v0.0.0-20260908204917-8b95e45f8d3e",
+    "Time": "2026-09-08T20:49:17Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:zYnHsDmxfxKH/x9DjYNAdoIdMsP8enB1Ncb10b3pdHk=",
+    "GoModSum": "h1:+g6JKqLjAprgkdZKuuBhkhIN9zvSktraeSABDN2M7p8="
+  },
+  {
+    "Path": "golang.org/x/mod",
+    "Version": "v0.41.0",
+    "Time": "2026-08-24T20:56:42Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:qJmnOUb4YB+FsEuM3HcWucdZASCPGhsX6uljO6pog0c=",
+    "GoModSum": "h1:Ek9pY8RKWXwsWvd3rQiHYtMqkjSUV+s1Rj7j4H5Ur6o="
+  },
+  {
+    "Path": "golang.org/x/net",
+    "Version": "v0.59.0",
+    "Time": "2026-09-08T19:18:02Z",
+    "GoVersion": "1.26.0",
+    "Sum": "h1:5zfYln+w5XCxwrnMMJPufRgNoXEaGxl0wo5GqPXyues=",
+    "GoModSum": "h1:2DA/G1UfVbCpQPeWTmMPGY7Cs2PkBkwu743bVX5PIVg="
+  },
+  {
+    "Path": "golang.org/x/oauth2",
+    "Version": "v0.36.0",
+    "Time": "2026-02-11T19:14:10Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "golang.org/x/sync",
+    "Version": "v0.23.0",
+    "Time": "2026-08-31T03:04:41Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:KameEIfc1IkluZyXWLn39Wd4tURc6GbCiISGiZm2bQk=",
+    "GoModSum": "h1:sUUOizhqBxiL6pEWpqNLUiaJn1ShEbZ6BBqskPbjZm0="
+  },
+  {
+    "Path": "golang.org/x/sys",
+    "Version": "v0.48.0",
+    "Time": "2026-08-31T19:43:43Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:bbX/i/6MgT9BVLM9RT1thmxL04yeTAhbEz4SyadbXoo=",
+    "GoModSum": "h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og="
+  },
+  {
+    "Path": "golang.org/x/telemetry",
+    "Version": "v0.0.0-20260908163034-4bcc4b2ee518",
+    "Time": "2026-09-08T16:30:34Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0"
+  },
+  {
+    "Path": "golang.org/x/term",
+    "Version": "v0.46.0",
+    "Time": "2026-09-08T16:27:41Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:3+OXuTbaKDgwk8jTi3aSLHRlmWqHEUDUtxnbFigO4YE=",
+    "GoModSum": "h1:+K02xbkittuwc0Am4abfA3Fc+XRGXkvBXNO88NCXPoc="
+  },
+  {
+    "Path": "golang.org/x/text",
+    "Version": "v0.42.0",
+    "Time": "2026-09-08T16:29:55Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:JbOZXgfeCPU9gacVtYliJqOhD+zhrEqK4LfdpmlUZqI=",
+    "GoModSum": "h1:ojzP1Z+2QtioaF8DTtO8K5q7JWVVYwZKenzujK0Zd0E="
+  },
+  {
+    "Path": "golang.org/x/time",
+    "Version": "v0.15.0",
+    "Time": "2026-02-11T19:14:29Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:bbrp8t3bGUeFOx08pvsMYRTCVSMk89u4tKbNOZbp88U=",
+    "GoModSum": "h1:Y4YMaQmXwGQZoFaVFk4YpCt4FLQMYKZe9oeV/f4MSno="
+  },
+  {
+    "Path": "golang.org/x/tools",
+    "Version": "v0.50.0",
+    "Time": "2026-09-08T19:59:56Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0",
+    "Sum": "h1:c2ifzfcuY7L90lZ2aKd8S4K2NpASF08SZx9ZuJkHmSU=",
+    "GoModSum": "h1:7ulVMw3831Mwi5EZD6RomGyffr4VFjuNYXf2BbCEAV0="
+  },
+  {
+    "Path": "golang.org/x/tools/go/expect",
+    "Version": "v0.1.1-deprecated",
+    "Time": "2025-06-13T18:44:18Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "golang.org/x/tools/go/packages/packagestest",
+    "Version": "v0.1.1-deprecated",
+    "Time": "2025-06-13T18:44:18Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "golang.org/x/xerrors",
+    "Version": "v0.0.0-20240903120638-7835f813f4da",
+    "Time": "2024-09-03T12:06:38Z",
+    "Indirect": true,
+    "GoVersion": "1.18",
+    "Sum": "h1:noIWHXmPHxILtqtCOPIhSt0ABwskkZKjD3bXGnZGpNY=",
+    "GoModSum": "h1:NDW/Ps6MPRej6fsCIbMTohpP40sJ/P/vI1MoTEGwX90="
+  },
+  {
+    "Path": "golang.zx2c4.com/wintun",
+    "Version": "v0.0.0-20230126152724-0fa3db229ce2",
+    "Time": "2023-01-26T15:27:24Z",
+    "Indirect": true,
+    "GoVersion": "1.17",
+    "Sum": "h1:B82qJJgjvYKsXS9jeunTOisW56dUokqW/FOteYJJ/yg=",
+    "GoModSum": "h1:deeaetjYA+DHMHg+sMSMI58GrEteJUUzzw7en6TJQcI="
+  },
+  {
+    "Path": "golang.zx2c4.com/wireguard",
+    "Version": "v0.0.0-20260522210424-ecfc5a8d5446",
+    "Time": "2026-05-22T21:04:24Z",
+    "Indirect": true,
+    "GoVersion": "1.23.1",
+    "Sum": "h1:cqHQ3AycTHvM2R7ikgyX57D+XvtcSnGylsLkOVhta/w=",
+    "GoModSum": "h1:rpwXGsirqLqN2L0JDJQlwOboGHmptD5ZD6T2VmcqhTw="
+  },
+  {
+    "Path": "golang.zx2c4.com/wireguard/windows",
+    "Version": "v1.1.1",
+    "Time": "2026-09-20T11:56:15Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:8/H97U1v1PNDNcBsMZgU3KFuND9MQdTsU2NOwmCXArE=",
+    "GoModSum": "h1:+fbT3FFdX4zzYDLwJh5+HPEcNN/3HyNdzhNSVsQM+zs="
+  },
+  {
+    "Path": "gonum.org/v1/gonum",
+    "Version": "v0.17.0",
+    "Time": "2025-12-29T19:16:44Z",
+    "Indirect": true,
+    "GoVersion": "1.24.0",
+    "Sum": "h1:VbpOemQlsSMrYmn7T2OUvQ4dqxQXU+ouZFQsZOx50z4=",
+    "GoModSum": "h1:El3tOrEuMpv2UdMrbNlKEh9vd86bmQ6vqIcDwxEOc1E="
+  },
+  {
+    "Path": "google.golang.org/api",
+    "Version": "v0.278.0",
+    "Time": "2026-05-05T19:10:26Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0"
+  },
+  {
+    "Path": "google.golang.org/appengine",
+    "Version": "v1.4.0",
+    "Time": "2018-12-17T20:59:03Z",
+    "Indirect": true,
+    "GoModSum": "h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7/EB5XEv4="
+  },
+  {
+    "Path": "google.golang.org/genproto",
+    "Version": "v0.0.0-20260523011958-0a33c5d7ca68",
+    "Time": "2026-05-23T01:19:58Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:cTHF8xtqtBN5sQ4dcoNwOS6FFejvFTkWQbZXsTU3trM=",
+    "GoModSum": "h1:RRHjglSYABVCWpQ7USCpdfhcd9t4PkajvVwyynZizTc="
+  },
+  {
+    "Path": "google.golang.org/genproto/googleapis/api",
+    "Version": "v0.0.0-20260706201446-f0a921348800",
+    "Time": "2026-07-06T20:14:46Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:admdQBe8jR3VWhBsUrAOaF2Qw6K/+p5pSm1GN8+6Fw4=",
+    "GoModSum": "h1:FPk7EXUKMtImne7AmknoYjT4QXqKIzzRbeQIXzLk6fQ="
+  },
+  {
+    "Path": "google.golang.org/genproto/googleapis/rpc",
+    "Version": "v0.0.0-20260706201446-f0a921348800",
+    "Time": "2026-07-06T20:14:46Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:qEHAMpSaUhtD0p3NbEEI83HwNGFxEwaSJ1G9PLnCBZE=",
+    "GoModSum": "h1:4Hqkh8ycfw05ld/3BWL7rJOSfebL2Q+DVDeRgYgxUU8="
+  },
+  {
+    "Path": "google.golang.org/grpc",
+    "Version": "v1.84.0",
+    "Time": "2026-09-17T20:03:25Z",
+    "Indirect": true,
+    "GoVersion": "1.25.0",
+    "Sum": "h1:soMyaPJ8pAak5PIQ0DGBUir0XRo2fRoMqhNWMLlLxO0=",
+    "GoModSum": "h1:ljCht0DrxQrXBDRTZp52Qxh3Ffk8CdYm2sj4O2QN2C0="
+  },
+  {
+    "Path": "google.golang.org/protobuf",
+    "Version": "v1.36.12",
+    "Time": "2026-08-10T13:29:45Z",
+    "Indirect": true,
+    "GoVersion": "1.23",
+    "Sum": "h1:pJOKDDOyeXErUroCihFAd5LQuwXBSpVnKGrj5o/fwxc=",
+    "GoModSum": "h1:HTf+CrKn2C3g5S8VImy6tdcUvCska2kB7j23XfzDpco="
+  },
+  {
+    "Path": "gopkg.in/check.v1",
+    "Version": "v1.0.0-20201130134442-10cb98267c6c",
+    "Time": "2020-11-30T13:44:42Z",
+    "Indirect": true,
+    "GoVersion": "1.11",
+    "Sum": "h1:Hei/4ADfdWqJk1ZMxUNpqntNwaWcugrBjAiHlqqRiVk=",
+    "GoModSum": "h1:JHkPIbrfpd72SG/EVd6muEfDQjcINNoR0C8j2r3qZ4Q="
+  },
+  {
+    "Path": "gopkg.in/evanphx/json-patch.v4",
+    "Version": "v4.12.0",
+    "Time": "2021-10-21T16:40:42Z",
+    "Indirect": true
+  },
+  {
+    "Path": "gopkg.in/hraban/opus.v2",
+    "Version": "v2.0.0-20230925203106-0188a62cb302",
+    "Time": "2023-09-25T20:31:06Z",
+    "Indirect": true
+  },
+  {
+    "Path": "gopkg.in/inf.v0",
+    "Version": "v0.9.1",
+    "Time": "2018-03-26T17:23:32Z",
+    "Indirect": true
+  },
+  {
+    "Path": "gopkg.in/yaml.v2",
+    "Version": "v2.4.0",
+    "Time": "2020-11-17T15:46:20Z",
+    "Indirect": true,
+    "GoVersion": "1.15",
+    "Sum": "h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=",
+    "GoModSum": "h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ="
+  },
+  {
+    "Path": "gopkg.in/yaml.v3",
+    "Version": "v3.0.1",
+    "Time": "2022-05-27T08:35:30Z",
+    "Indirect": true,
+    "Sum": "h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=",
+    "GoModSum": "h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM="
+  },
+  {
+    "Path": "gvisor.dev/gvisor",
+    "Version": "v0.0.0-20260530041128-23ef90c42be7",
+    "Time": "2026-05-30T04:11:28Z",
+    "Indirect": true,
+    "GoVersion": "1.26.3",
+    "Sum": "h1:ZodhPVQzlCmuc1jt1ZIovMTwAJEArTPgq+UTu+mkVME=",
+    "GoModSum": "h1:8aLQqUBHDH8fY5y60lzmwDpMMbQCcT3EBfoSwhfaGCY="
+  },
+  {
+    "Path": "h12.io/socks",
+    "Version": "v1.0.3",
+    "Time": "2021-08-06T15:27:57Z",
+    "Indirect": true,
+    "GoVersion": "1.9"
+  },
+  {
+    "Path": "honnef.co/go/tools",
+    "Version": "v0.4.5",
+    "Time": "2023-08-17T16:19:37Z",
+    "Indirect": true,
+    "GoVersion": "1.19"
+  },
+  {
+    "Path": "k8s.io/api",
+    "Version": "v0.32.3",
+    "Time": "2025-03-12T05:42:25Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "k8s.io/apimachinery",
+    "Version": "v0.32.3",
+    "Time": "2024-12-06T18:18:55Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "k8s.io/client-go",
+    "Version": "v0.32.3",
+    "Time": "2025-03-12T05:55:23Z",
+    "Indirect": true,
+    "GoVersion": "1.23.0"
+  },
+  {
+    "Path": "k8s.io/klog/v2",
+    "Version": "v2.130.1",
+    "Time": "2024-06-20T00:51:19Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "k8s.io/kube-openapi",
+    "Version": "v0.0.0-20241105132330-32ad38e42d3f",
+    "Time": "2024-11-05T13:23:30Z",
+    "Indirect": true,
+    "GoVersion": "1.20"
+  },
+  {
+    "Path": "k8s.io/utils",
+    "Version": "v0.0.0-20241104100929-3ea5e8cea738",
+    "Time": "2024-11-04T10:09:29Z",
+    "Indirect": true,
+    "GoVersion": "1.18"
+  },
+  {
+    "Path": "layeh.com/gopher-luar",
+    "Version": "v1.0.11",
+    "Time": "2023-06-05T11:41:52Z",
+    "Indirect": true,
+    "GoVersion": "1.12",
+    "Sum": "h1:8zJudpKI6HWkoh9eyyNFaTM79PY6CAPcIr6X/KTiliw=",
+    "GoModSum": "h1:TPnIVCZ2RJBndm7ohXyaqfhzjlZ+OA2SZR/YwL8tECk="
+  },
+  {
+    "Path": "lukechampine.com/blake3",
+    "Version": "v1.4.1",
+    "Time": "2025-05-08T12:37:30Z",
+    "Indirect": true,
+    "GoVersion": "1.22",
+    "Sum": "h1:I3Smz7gso8w4/TunLKec6K2fn+kyKtDxr/xcQEN84Wg=",
+    "GoModSum": "h1:QFosUxmjB8mnrWFSNwKmvxHpfY72bmD2tQ0kBMM3kwo="
+  },
+  {
+    "Path": "mvdan.cc/gofumpt",
+    "Version": "v0.12.0",
+    "Time": "2026-09-07T22:34:18Z",
+    "Indirect": true,
+    "GoVersion": "1.26.0"
+  },
+  {
+    "Path": "openflux-mobile",
+    "Version": "v0.0.0",
+    "Replace": {
+      "Path": "../OpenFlux/mobile",
+      "GoVersion": "1.26.6"
+    },
+    "GoVersion": "1.26.6"
+  },
+  {
+    "Path": "rsc.io/qr",
+    "Version": "v0.2.0",
+    "Time": "2018-06-05T10:54:35Z",
+    "Indirect": true,
+    "Sum": "h1:6vBLea5/NRMVTz8V66gipeLycZMl/+UlFmk8DvqQ6WY=",
+    "GoModSum": "h1:IF+uZjkb9fqyeF/4tlBoynqmQxUoPfWEKh921coOuXs="
+  },
+  {
+    "Path": "sigs.k8s.io/json",
+    "Version": "v0.0.0-20241010143419-9aa6b5e7a4b3",
+    "Time": "2024-10-10T14:34:19Z",
+    "Indirect": true,
+    "GoVersion": "1.21"
+  },
+  {
+    "Path": "sigs.k8s.io/structured-merge-diff/v4",
+    "Version": "v4.4.2",
+    "Time": "2024-11-01T00:59:28Z",
+    "Indirect": true,
+    "GoVersion": "1.13"
+  },
+  {
+    "Path": "sigs.k8s.io/yaml",
+    "Version": "v1.4.0",
+    "Time": "2023-10-24T17:13:34Z",
+    "Indirect": true,
+    "GoVersion": "1.12"
+  }
+]

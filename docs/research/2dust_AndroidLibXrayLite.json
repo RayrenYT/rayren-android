@@ -1,0 +1,20 @@
+{
+  "repo": "2dust/AndroidLibXrayLite",
+  "branch": "main",
+  "sha": "1f3e2c5df1c248ed42630cee2bf747643d303ecc",
+  "license": "LGPL-3.0",
+  "release": "v26.10.10",
+  "published": "2026-10-11T03:39:51Z",
+  "assets": [
+    {
+      "name": "libv2ray-sources.jar",
+      "browser_download_url": "https://github.com/2dust/AndroidLibXrayLite/releases/download/v26.10.10/libv2ray-sources.jar",
+      "size": 8755
+    },
+    {
+      "name": "libv2ray.aar",
+      "browser_download_url": "https://github.com/2dust/AndroidLibXrayLite/releases/download/v26.10.10/libv2ray.aar",
+      "size": 64942583
+    }
+  ]
+}

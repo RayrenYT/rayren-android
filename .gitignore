@@ -1,0 +1,23 @@
+.research/
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+native/work/
+artifacts/
+*.log
+.idea/
+.kotlin/
+third_party/source/
+
+# Local credentials, client data and release downloads
+.env
+.env.*
+!.env.example
+*.db
+*.db-wal
+*.db-shm
+*.apk
+__pycache__/
+*.pyc

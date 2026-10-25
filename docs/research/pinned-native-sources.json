@@ -1,0 +1,18 @@
+[
+  {
+    "name": "AndroidLibXrayLite",
+    "commit": "0a02333081243df017453ccb432ad3cafcfd69e3"
+  },
+  {
+    "name": "OpenFlux",
+    "commit": "1adc1fe1f4ac8180952779d4d580ee82a34abe98"
+  },
+  {
+    "name": "olcrtc",
+    "commit": "f3ad8fb7c0d0fa981423f83269526fa94077c23d"
+  },
+  {
+    "name": "hev-socks5-tunnel",
+    "commit": "d9dca26c7ad0e494492244f0309e80ee583e739e"
+  }
+]

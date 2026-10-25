@@ -1,0 +1,35 @@
+{
+  "repo": "venterum/veil",
+  "branch": "master",
+  "sha": "a5af92169126b8d9b79c674c37f2bc127b339601",
+  "license": "GPL-3.0",
+  "release": "v0.8.0",
+  "published": "2026-10-12T00:42:11Z",
+  "assets": [
+    {
+      "name": "veil_0.8.0_arm64-v8a.apk",
+      "browser_download_url": "https://github.com/venterum/veil/releases/download/v0.8.0/veil_0.8.0_arm64-v8a.apk",
+      "size": 62035814
+    },
+    {
+      "name": "veil_0.8.0_armeabi-v7a.apk",
+      "browser_download_url": "https://github.com/venterum/veil/releases/download/v0.8.0/veil_0.8.0_armeabi-v7a.apk",
+      "size": 62614154
+    },
+    {
+      "name": "veil_0.8.0_universal.apk",
+      "browser_download_url": "https://github.com/venterum/veil/releases/download/v0.8.0/veil_0.8.0_universal.apk",
+      "size": 146548881
+    },
+    {
+      "name": "veil_0.8.0_x86.apk",
+      "browser_download_url": "https://github.com/venterum/veil/releases/download/v0.8.0/veil_0.8.0_x86.apk",
+      "size": 65043730
+    },
+    {
+      "name": "veil_0.8.0_x86_64.apk",
+      "browser_download_url": "https://github.com/venterum/veil/releases/download/v0.8.0/veil_0.8.0_x86_64.apk",
+      "size": 63970058
+    }
+  ]
+}
